@@ -1,0 +1,111 @@
+Update Log
+
+0.0.1: Created the first units in the set.
+0.0.2: Completed the Terrador Military faction, made the era playable but with no pics.
+0.0.3: Still no pics, reduced most units' movement by 1.
+0.0.4: Three pics added; Soldier, Shotgunner, and Captain.
+0.0.5: Zederians added as a playable faction, gave Nukes to Flagship and bombs to Bomber.
+0.0.6: Balanced the resistances and movement values (110%?!?! Holy Crud!)
+0.0.7: Created the race New Earth Humans to cover the Zederains' and Terradorians' movement and defenses. Also added six new unit sprites: Veteran Soldier, Fleet Commander, Flamethrower, Medic, SpecOps, and Cyborg
+0.0.8: Added Fighter, Bomber, Flagship, Grenadier, Heavy Weapons Expert, and other such pics.
+0.0.9: Added Toxin Mutant and fixed the images glitch
+0.1.0: Finished Terrador pics and renamed the APC to "Advanced Jet" and Recon Jeep to "Recon Jet". Also added attack icons, but not finished them yet.
+0.1.1: Completed Zederian unit pics and made it so the Medic could level up. The attack icons are done for most human units, Zederian attack icons are underway. The era is now on the addons server!
+0.1.2: Fixed the glitched Anti-Tank Warrior image. Also began working on the Zederian race and fixing unit resistances and movement costs.
+0.1.3: Finished the races, balancing resistances and attacks. All Zederians have attack pics now.
+0.1.4: Finished races, resistance messing up, working on that.
+0.1.5: Fixed resistances, jets and fighters are almost completely immune from blade & impact, but weak vs. pierce and fire. Began working on terrains.
+0.1.6: Fixed the faulty addon pic.
+0.1.7: Reduced price of tanks by 20, increased price of most infantry by 5, Increased Grenadiers by an additional 3, and recruits price is increased to 7. Reduced BF Medic #OA by 1, and reduced Recon Jet #OA by 3. Fixed unit DEF glitch. 
+0.1.8: Added terrain, began campaign.
+0.1.9: Finished the first campaign mission
+0.2.0: Fixed several errors, including the one where the first scenario makes you lose after the first turn.
+0.2.1: Made Zederians recruit a wider variety of troops, added second scenario.
+0.2.2: Added third scenario
+0.2.3: Added Scenario 4, made all Zederian leaders make a wider variety of units.
+0.2.4: Balancing update. Modified Cyborg Soldier's Wrist Lasers to 9-4, Terrador Soldier's Rifle to 6-3, and Light Tank's attack to 14-2
+0.2.5: Balancing update. Increased Warrior 2nd #OA by 1, and reduce Recon tank's attack to 13. Removed Shotgunner as leader, fixed Terrador's Finest as leader.
+0.2.6: Added fifth scenario. Fixed Factory healing glitch.
+0.2.7: Fixed fifth scenario. Created Soldier and Captain rifle attack animations and sounds.
+0.2.8: Finished most Terradorian attack anims. Will have to wait to do Shotgunner.
+0.2.9: Fixed Scenario 3, where Newton & Co. Appear in space.
+0.3.0: Finished scenario 6.
+0.3.1: Balanced more units' exp amounts
+0.3.2: Fixed scenario 2, it now has villages.
+0.3.3: Fixed scenario 3, Medium tanks spawn correctly, Made leaders more cautious.
+0.3.4: Made scenario 3, made Newton come on turn 5 for easy. Also made him have 2 more troops.
+0.3.5: Made scenario 3 much easier, with more gold and also 2 of the units that spawn with the SpecOps team are Heavy Weapons Experts. Also made the triangle: Tanks beat infantry, who beat Anti-Tank, who beat tanks.
+0.3.6: Made all ships and vehicles have the mechanical trait. They can no longer be poisoned.
+0.3.7: Recovered a Campaign Icon and Campaign Pic. Added both.
+0.3.8: More balancing. Also made the Veteran Soldier and Terrador's Finest more threatening. Got a new Battlefield Medic image. Made Gas Warriors and Methane Suckers do piercing damage.
+0.3.8: Made mission 3 easier. Removed one of the Wasps and removed the Hornet. Also fixed the glitch where the Captain's knife does pierce damage. Made all multiplayer matches begin with Lvl 2 units.
+0.3.9: Made the leaders in mission 3 more cautious.
+0.4.0: Made Zederian ships easier to kill.
+0.4.1: Fixed glitch in scenario 5 where Flameslash is on side 2. Also made scenario 6 work.
+0.4.2: Finished scenario 8; it is all space combat with fleets! Also balanced several units and fixed scenario 7.
+0.4.3: Made scenario 9.
+0.4.4: Made the story more plausible, thanks to The Great Rings.
+0.4.5: Made scenario 10; the Xylash have entered the game!
+0.4.6: Balanced Xylash units.
+0.4.7: Made scenario 11. Made Scenario 10's actual map work.
+0.4.8: Made scenario 12. You can now recruit Zederian troops!
+0.4.9: Made scenario 13. Almost finished! Also made the Zederain Leaders more powerful, and added a new ability: Military Leadership! Also made an ability for the SpecOps stating they would be invisible at all times.
+1.0.0: Finished the campaign, Dev version is over!
+1.0.1: Fixed the fatal error with the campaign. The Campaign is fully playable!
+1.0.2: Fixed glitch with first scenario. Also fixed multiplayer glitch where you can pick the Fleet Commander and High Councilor.
+1.0.3: Made the Zederian AT Warrior and Cyborg attack anims.
+1.0.4: Thanks to Huntermesa, All Terrador infantry have recruit animations!
+1.0.5: Decided against unit recruit anims. Maybe in the future.
+1.0.6: Added the Infected defense sprite.
+1.0.7: Added the Warrior 1st mace and laser anim.
+1.0.8: Added Zederian Vehicle anims and Gas Warrior line anims.
+1.0.9: Added Zederian Councilor line attack anims.
+1.1.0: Fixed the error in scenario 7
+1.1.1: Worked to clarify the story; made some minor spell checks on scenarios 1-3.
+1.1.2: Finished Zederian attack anims (ranged)
+1.1.3: Added nine new units: The Marksman, the Sniper, the Destroyer, the Repair Satellite, the Raven, the Frigate, the Watcher, the Claw, and the Anti-Tank Destroyer. Also added the credits. Also added the Marksman as a recruitable unit in both MP and the Campaign.
+1.1.4: Corrected the scenarios with Xylash; they have WAY too much gold. Also corrected the scenarios where you can only recruit Fighters and Recon Jets.
+1.1.5: Fixed the fatal error that prevented you from playing both the campaign and multiplayer.
+1.1.6: Fixed some errors.
+1.1.7: Gave the Marksman line the ability to headshot enemies, even tanks! Also fixed some errors and balanced some units.
+1.1.8: Made new cities, added new music, and made a new Recruit unit. We've been busy!
+1.1.9: Made the city animations! Woo! Also began work on new Xylash units to make them playable in multiplyer.
+1.2.0: The Xylash are now a playable race! Try them out! Also began working to replace the Factory in the Campaign maps.
+1.2.1: Made snipers not be able to use thier rifle on defense. Also updated the Zederian tanks with new graphics.
+1.2.2: Finally fixed the Snipers. Also added a few new unit pics.
+1.2.3: Updated some more unit pics.
+1.2.4: Made all Xylash have more recruitable units in the campaign. Also placed all the new cities in the Campaign maps.
+1.2.5: Started the Xylash Campaign, Omega's Tale. 1 Playable Scenario. Also added an experimantal unit: The Spore. When finished, it will die when it attacks, and turn the attacked unit to your side. I have plans for this little idea...
+1.2.6: Mades nipers have one weapon, and also added a special ability for a future OT scenario.
+1.2.7: Made scenario 2 for Omega's Tale.
+1.2.8: Made the thrid, and my personal favorite, of the Omega's Tale scenarios. Go and take over the Zederian's minds!
+1.2.9: Made the Flagships HUGE. MUCH bigger than the fighters.
+1.3.0: Made the SpecOps have another unit: Level 4- The SpecOps Lieutenant. Also made the Recon Jet be a hoverbike.
+1.3.1: Fixed a lethal error in the sniper's coding. Also made a multiplayer map for testing.
+1.3.2: Finished Omega's Tale, among other things.
+1.3.3: I am back, baby! updated for 1.8
+1.3.4: Fixed the multiplayer icons
+1.3.5: New Infected sprite! Also, fixed the sniper's headshot ability.
+1.3.6: Fixed the infection ability
+1.3.7: New Xylash Omega sprite sourtesy of Artisticdude, and also a new Zederian Warrior sprite from Teleron. Also, Xylash are now a playable Multiplayer race; with the addition of TWoT's first multiplayer map!
+1.3.8: Some new Zederian sprites from Teleron
+1.3.9: A few new changes, fixed the bug with the main scenario
+
+If you like this era, tell me at the Forum!
+tkta.forumotion.com
+
+
+
+
+Credits:
+Most vehicles and the Grenadier, Battlefield Medic, HWE, terrain sprites, projectiles, sounds, and attacks: Maeglin Dubh, ILikeProgramming, Oreb, Dreampilot (makers of Spacenoth)
+Shotgunner, Captain: Flameslash
+Zederian Cyborg, Xylash Aliens: Woodmouse, Revamped by Telaron
+Omega: Artisticdude
+Terrain coding and variants: Mnewton1 and Bob the Mighty (for Galactic Empires terrain)
+All unit/racial/Campaign coding done by Dragonchampion and aided by Mnewton1
+All other unit anims done by Dragonchampion
+Testers: Indora, Dragonchampion, Mnewton, Flameslash, Timothy Williams, Huntermesa
+Storyline: Dragonchampion and The Great Rings
+Terradorian Recruit Animation, Infection defend sprite, and the Warrior attack animations: Huntermesa
+New Infected Sprite: Artisticdude
