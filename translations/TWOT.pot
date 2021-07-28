@@ -1,0 +1,2280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2021-07-28 05:36 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [scenario]: id=4_Slaves
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:4
+msgid "Slaves"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:19
+msgid "The city was ours, and the Zederians were our slaves. Now, we just had to make them work on the Hive itself."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:23
+msgid "The trouble was, now we had the difficulty of forcing them to fight their own brothers. The war was far from over, and the slaves would make excellent meat shields for my underlings when the time came."
+msgstr ""
+
+#. [side]: type=Xylash_Grub, id=Omega
+#. [side]: type=Omega, id=Xylash
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:30
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:30
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:29
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:30
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:29
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:111
+msgid "Omega"
+msgstr ""
+
+#. [side]: type=Council_Member, id=Zederian Leader
+#. [side]: type=Council_Head, id=Zederian Leader
+#. [side]: type=Council_Head, id=Zederian Leader2
+#. [side]: type=Council_Head, id=Zederian Leader3
+#. [side]: type=Council_Head, id=Zederian Leader4
+#. [side]: type=Council_Head, id=Zederian Leader5
+#. [side]: type=Elite_Warrior, id=Zederian Leader
+#. [side]: type=Elite_Warrior, id=Zederian Leader2
+#. [side]: type=Warrior_1st_Class, id=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:45
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:55
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:74
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:93
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:112
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:131
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:44
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:63
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:67
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:91
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:44
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:106
+msgid "Zederian Leader"
+msgstr ""
+
+#. [side]: type=Elite_Warrior, id=Zederian Leader2
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:64
+msgid "Zederian Commander"
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:97
+msgid "It seems that the Zederians have come to reclaim their city. Underlings! Protect our prize!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:101
+msgid "Warriors! Attack! Take back the city!"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:110
+msgid "Destroy the Zederian Councilor to protect the city."
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:114
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:139
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:179
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:87
+msgid "Death of Omega"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:118
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:147
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:183
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:309
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:58
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:58
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:60
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:173
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:67
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:47
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:54
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:262
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:55
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:50
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:79
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:79
+msgid "Turns run out"
+msgstr ""
+
+#. [message]: speaker=Omega
+#. [message]: speaker=unit
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:131
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:177
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:160
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:246
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:104
+msgid "SCREEEE!!!!!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:141
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:256
+msgid "We have survived! Troops! Take down the rest of them! Make sure none survive!"
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:155
+msgid "This city is ours, pathetic Zederian scum!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:159
+msgid "No... Our brothers... will take it... back, even if... it means... the end of... hundreds of... our... kind..."
+msgstr ""
+
+#. [scenario]: id=5_Rebellion
+#. [scenario]: id=3_Assault
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:4
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:4
+msgid "Assault"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:15
+msgid "The city was undoubtedly and completely ours. The Zederians were scattered and broken, and our ranks were simply getting larger."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:19
+msgid "However, I soon found myself the new Overlord as the old one died. I immediately pulled back, taking the slaves with me."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:23
+msgid "But unexpectedly, some of the Zederians had managed to defeat the spores controlling them and start a rebellion. I knew that, cut off from the Hive and with only a few troops, victory was impossible, but I still fought."
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:150
+msgid "Our lives may end today, but we will still give them something to remember!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:154
+msgid "We are free from your spores, Omega! It is time to die!"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:164
+msgid "Survive as long as possible."
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/5_Rebellion.cfg:187
+msgid "He is dead; and our allies have been freed. I have a feeling that we will not hear from the Xylash for some time to come."
+msgstr ""
+
+#. [scenario]: id=2_Protect
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:4
+msgid "Protect the Food"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:18
+msgid "My mission was a success. I had slain the Zederian fools, and used their bodies to spawn my minions for battle. However, now cam the task of returning them to the Hive. I had ventured out far in my attempts to eliminate the rest of them, and so I now had to protect them as they went a fair distance to the Hive itself..."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:22
+msgid "The Zederians had somehow found out about my deeds, and sent several of their soldiers to investigate. If they managed to kill the food, then my mission, and quite possible my life, was over."
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:82
+msgid "The food must be protected as they head to the hive. Underlings! Protect the food!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:87
+msgid "Kill the vermin! Burn the bodies!"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:135
+msgid "get the food to the Hive"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:143
+msgid "Death of ANY of the food."
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:170
+msgid "Burn the rest of them! Make sure none survive!"
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:185
+msgid "Noooo! The food!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:203
+msgid "No! They have escaped!"
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/2_Protect.cfg:207
+msgid "Into the catacombs, my underlings! Into the Hive!"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:19
+msgid "The food had made it into the caves, and the pathetic Zederians could not follow. My excellence was seen by the Overlord, and I was placed first in line of the Neo-Grubs, and given a new mission for the glory of the Hive."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:23
+msgid "I was told that a large Zederian City was located nearby, with several foolish Zederian soldiers guarding it. The numbers of the soldiers had increased and my mission was to turn them into obedient slaves for the Hive. To do this, I was given control of a new strain of Xylash, the Spore. These minuscule spores were able to enter a humanoid mind and force them to obey the Spore's commands, making them puppets. I knew I would have fun with them..."
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:131
+msgid "This road will lead us straight to the city. We should keep an eye out for any Zederians we can infect."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:175
+msgid "Consume all enemies and take control of the City Center."
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:200
+msgid "There! An Outpost with a single guard!"
+msgstr ""
+
+#. [message]: speaker=OutpostGuard
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:205
+msgid "What the- AHHHH!!! XYLASH!!!!"
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:210
+msgid "Send a Spore to attack him! Make him our slave!"
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:225
+msgid "There is the City! It is ripe for the taking!"
+msgstr ""
+
+#. [message]: speaker=Guard
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:230
+msgid "Xylash! Stop them from taking over the colony!"
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:235
+msgid "There is the City's guard! Make them serve us!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:274
+msgid "The City has fallen! We are doomed!"
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/3_Assault.cfg:278
+msgid "The city is ours, and its citizens are our slaves. We are victorious!"
+msgstr ""
+
+#. [scenario]: id=1_Food
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:4
+msgid "Food"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:18
+msgid "The Xylash Hive was a gigantic, musty place. The grubs swarmed the inner walls, and life pulsated from every corner. I was a Neo-Grub, in line to become the next Hivelord. However, this proved to be a little difficult, as there were twenty other Neo-Grubs, all vying for control. I and the rest of my brethren were tasked with multiple jobs, and sent to gather food, build tunnels, and other such inglorious jobs."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:22
+msgid "I was given a simple task: find and return to the Hive with food. I gathered my warriors and set out to take any food that we came across."
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:63
+msgid "I smell... FOOD!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:68
+msgid "What are those things? Men, to arms! They don't appear to be friendly!"
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:73
+msgid "Pathetic Fools..."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:83
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:55
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:126
+msgid "Kill the Zederians"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:91
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:50
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:46
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:67
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:138
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:63
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:54
+msgid "Turns runs out"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:114
+msgid "Whatever that was, It's dead. Let's head home."
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:129
+msgid "What is this... feeling under my skin... *SPLURCH*"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:133
+msgid "AHHHHHHHHHHHH!!!"
+msgstr ""
+
+#. [message]: speaker=Omega
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:143
+msgid "Let us bring the food and the Spore-Carriers back to the Hive."
+msgstr ""
+
+#. [scenario]: id=2_The_Second_Mission
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:4
+msgid "The Defense of Serinan"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:16
+msgid "As we made our way back to Gamma Command, thoughts entered my mind: why did they want to eliminate us? What are they? Why had we missed them until now?"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:20
+msgid "I managed to get halfway back to Command when a distress signal was found by Alderman. In haste, I sent our ships to aid them, and contacted command, requesting further aid."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:24
+msgid "We set our ships barely a half-mile from the colony, and found it oddly quiet. I went to see the leader of the colony. I soon found that the Zederians were regrouping for another attack."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:34
+msgid "Stop the Zederians from overrunning the colony."
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:38
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:38
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:297
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:42
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:42
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:48
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:161
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:51
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:35
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:42
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:250
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:59
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:130
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:43
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:34
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:47
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:63
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:42
+msgid "Death of Ryter"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:42
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:42
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:301
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:46
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:46
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:52
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:165
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:55
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:39
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:46
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:254
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:63
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:134
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:47
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:38
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:51
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:67
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:46
+msgid "Death of Alderman"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:46
+msgid "Death of Gerichal"
+msgstr ""
+
+#. [side]: type=Captain, id=Ryter
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:59
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:55
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:67
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:67
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:76
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:59
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:63
+msgid "Captain Ryter"
+msgstr ""
+
+#. [side]: type=Cyborg_Soldier, id=Zederian Leader
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:85
+msgid "Zederian Siege Leader"
+msgstr ""
+
+#. [side]: type=Captain, id=Gerichal
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:103
+msgid "Gerichal"
+msgstr ""
+
+#. [side]: type=Anti_Tank_Warrior, id=Zederian Soldier
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:124
+msgid "Zederian Siege Soldier"
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:143
+msgid "Scanners detect multiple Zederian units closing in fast!"
+msgstr ""
+
+#. [message]: speaker=Gerichal
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:148
+msgid "I'm glad you managed to get here. With only recruits, I'm not sure how much longer we could have stood for. If this colony is destroyed, the trees will die, and then all the work we have done terraforming this planet will be in vain."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:153
+msgid "We need to focus. Gerichal, do you have anything that we can use to fight the Zederians here?"
+msgstr ""
+
+#. [message]: speaker=Gerichal
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:158
+msgid "We make fighters here, sir. We will let your men take a couple for combat."
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:163
+msgid "They will help quite a bit, Captain."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:168
+msgid "You can now recruit Recon Jets and Fighters!"
+msgstr ""
+
+#. [message]: speaker=unit
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:180
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:347
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:228
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:238
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:192
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:164
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:191
+msgid "Damn... They... got me..."
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:184
+msgid "Retreat! The Captain is dead!"
+msgstr ""
+
+#. [message]: speaker=Gerichal
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:188
+msgid "No! We are doomed!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:208
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:367
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:220
+msgid "Alderman! No! Without his help, there is no way we can survive!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:212
+msgid "Hahahahaha!!!!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:232
+msgid "Gerichal is dead! The colony is destroyed!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:247
+msgid "Pathetic humans! Why... won't... you... die... Guh!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:251
+msgid "Let's go. We still have to get back to command."
+msgstr ""
+
+#. [scenario]: id=3_The_Attack
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:4
+msgid "The Derlan Skirmish"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:16
+msgid "We finally reached Gamma Command a few days later, only to find it under Zederian control."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:20
+msgid "The Zederians had mounted a full-scale offensive; their armored battalions were still inside Command. Also, Gamma Command was located on a small asteroid orbiting a large planet with moons of its own. That proved that this would not be a standard ground assault."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:24
+msgid "I knew that, unless we recaptured Gamma Command, this entire sector would fall. Calling together my troops, we immediately went to a nearby outpost and began our offensive."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:34
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:293
+msgid "Recapture Gamma Command"
+msgstr ""
+
+#. [side]: type=Elite_Warrior, id=Zederian Leader
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:80
+msgid "Zederian Elite"
+msgstr ""
+
+#. [unit]: id=Wasp2, type=Wasp_Fighter
+#. [unit]: id=Wasp3, type=Wasp_Fighter
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:94
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:108
+msgid "Zederian Wasp"
+msgstr ""
+
+#. [side]: type=Council_Member, id=Zederian Soldier
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:127
+msgid "Zederian Councilman"
+msgstr ""
+
+#. [unit]: id=Tank1, type=Medium_Tank
+#. [unit]: id=Tank2, type=Medium_Tank
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:141
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:155
+msgid "Zederian Medium Tank"
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:174
+msgid "The Zederians have captured Gamma Command. They seem to have left no survivors."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:179
+msgid "Where should we concentrate our attack, Alderman? I never expected to attack a Terradorian military base."
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:184
+msgid "The entire place seems heavily guarded, as is expected, due to the fact that this is Gamma Command. However, if we can mass our forces by air, we can navigate the moons and ambush the Zederians."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:189
+msgid "Excellent idea, Alderman. Men, commence the attack!"
+msgstr ""
+
+#. [unit]: id=Newton, type=SpecOps_Elite
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:211
+msgid "Cpl. Newton"
+msgstr ""
+
+#. [unit]: id=SpecOps1, type=SpecOps
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:224
+msgid "Joshua"
+msgstr ""
+
+#. [unit]: id=SpecOps4, type=SpecOps
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:236
+msgid "Joseph"
+msgstr ""
+
+#. [unit]: id=SpecOps3, type=Heavy_Weapons_Expert
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:248
+msgid "Mike"
+msgstr ""
+
+#. [unit]: id=SpecOps2, type=Heavy_Weapons_Expert
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:260
+msgid "Nirvania"
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:272
+msgid "Ho! This is Special Forces Unit 00779. We are here to help."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:276
+msgid "What the... Where did you guys come from?"
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:280
+msgid "That doesn't matter- we are here to help. We must reclaim Gamma Command, before the Zederians discover the whereabouts of the Core Worlds."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:284
+msgid "Alright. Join my forces; they are already assaulting the base."
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:288
+msgid "Yessir!"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:305
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:50
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:50
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:56
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:169
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:59
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:50
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:258
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:42
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:50
+msgid "Death of Newton"
+msgstr ""
+
+#. [objectives]
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:312
+msgid "SpecOps can turn invisible when in a village, forest, or at night. Use this to stage ambushes!"
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:323
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:204
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:214
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:140
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:167
+msgid "How... is... this... possible?"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:327
+msgid "Newton! No! We have no hope without the SpecOps!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:371
+msgid "Hahahaha!!!!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:391
+msgid "We just captured this base! How... ugh..."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:395
+msgid "That is what happens when you try to destroy the Terradorian Military. Now die, alien scum!"
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:403
+msgid "Sir, after going into battle with you, we request permission to travel with you. Our unit could be of help in the trials to come."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/3_The_Attack.cfg:407
+msgid "Indeed. Permission granted. Welcome to Battalion 23842, Corporal."
+msgstr ""
+
+#. [scenario]: id=5_To_War
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:4
+msgid "To War!"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:16
+msgid "Upon arrival at Beta Command, we were rushed from our ships and into Admiral Flameslash's room. The Admiral was a war hero- it was he who defeated the terrorists in Alpha, and it was he who oversaw the colonization of Gamma and Beta Quadrants."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:20
+msgid "The Admiral revealed his plan to us: He was going to send out the Terrador fleet as naught but a diversion, to allow a small group of men into the Zederian's lands, which, of course, was Delta Quadrant, and kill or capture the Zederian Council."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:24
+msgid "For some unknown reason, the Admiral had picked me to lead this mission, and next, he did something that I never expected; he pulled rank and stated he was coming with us. I believe that the entire room was dumbstruck. "
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:28
+msgid "None knew that the Admiral was capable of doing such a thing! He requested my permission to follow my command, and I almost fainted. Here was an Admiral asking my permission to follow my command! I hastily accepted, without thinking of the consequences."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:38
+msgid "Kill the Zederian Border Guards"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:54
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:54
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:46
+msgid "Death of Flameslash"
+msgstr ""
+
+#. [unit]: id=Flameslash, type=Fleet_Commander
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:77
+msgid "Flameslash"
+msgstr ""
+
+#. [side]: type=Council_Member, id=Zederian Leader
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:110
+msgid "Border Patrol Leader"
+msgstr ""
+
+#. [side]: type=Elite_Warrior, id=Zederian Soldier 1
+#. [side]: type=Cyborg_Soldier, id=Zederian Soldier 2
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:131
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:152
+msgid "Zederian Border Patrol"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:173
+msgid "Admiral Flameslash, why are you coming on this mission? We could do it alone."
+msgstr ""
+
+#. [message]: speaker=Flameslash
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:178
+msgid "This will be my last triumph, my friend. I have served the Terradorian Military for twenty years, and I am old. Nevertheless, I feel I must aid you in this mission; as one of my last acts as Admiral."
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:183
+msgid "The Zederians have mostly pulled out of this area to go to war with the fleet. We should have any easy time geting through here."
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:188
+msgid "Halt, humans! How dare you attempt to enter our lands! For that, you will die; slowly and painfully."
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:193
+msgid "Or maybe not."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:208
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:218
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:144
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:171
+msgid "Newton! No! Without him, we cannot win!"
+msgstr ""
+
+#. [message]: speaker=Flameslash
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:232
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:242
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:168
+msgid "He had such a future..."
+msgstr ""
+
+#. [message]: speaker=Flameslash
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:252
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:296
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:224
+msgid "So... This is the end for me..."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:272
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:317
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:244
+msgid "Alderman! No! He's dead!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/5_To_War.cfg:289
+msgid "That's the last of them. We now have a clear shot into Delta Quadrant. I only hope we know what we are getting ourselves into..."
+msgstr ""
+
+#. [scenario]: id=6_Stealth_Is_The_Key
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:4
+msgid "Stealth Is The Key"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:16
+msgid "We quickly entered Delta Quadrant and sent our ships deep into unknown space."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:20
+msgid "I was personally anxious. I would be overseeing the attack on the Zederian Council? That was unbelievable!"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:24
+msgid "However, I was still filled with dread. Something was going to happen; something important. However, exactly what eluded me."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:28
+msgid "However, we soon found ourself on the very doorstep of the Zederian Council, according to Flameslash's intel. We hurriedly readied weapons and prepared for battle."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:38
+msgid "Kill the Zederian Council Guards"
+msgstr ""
+
+#. [side]: type=Elite_Warrior, id=Zederian Leader
+#. [side]: type=Elite_Warrior, id=Zederian Soldier 1
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:98
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:124
+msgid "Council Guard"
+msgstr ""
+
+#. [side]: type=Fleet_Commander, id=Price
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:149
+msgid "Commander Gregory Price"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:168
+msgid "This is it. We need to get past the Zederian Council Guards. Then we can take out the leaders of the Zederian Army..."
+msgstr ""
+
+#. [message]: speaker=Flameslash
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:173
+msgid "Indeed. Then this whole damned war will be over once and for all."
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:178
+msgid "Look! The fleet must have managed to pull through! Commander Price is there, to the south! He will provide a decent distraction."
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:183
+msgid "The humans are attacking from the south! Defend the Council!"
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:188
+msgid "Heh. They don't even know we are here."
+msgstr ""
+
+#. [message]: speaker=Price
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:199
+msgid "I may die, but the last laugh belongs to me, alien scum!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:203
+msgid "He did all he could. We have to hurry and kill the leaders while the troops are still away from the keep."
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#. [message]: speaker=Zederian Soldier 2
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:266
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:193
+msgid "There are humans behind us, as well! Kill them!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:270
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:197
+msgid "They have discovered us!"
+msgstr ""
+
+#. [message]: speaker=Zederian Soldier 1
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:285
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:213
+msgid "Where did these humans come from?!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:334
+msgid "The Guards are dead! Let's get in there and end this war once and for all!"
+msgstr ""
+
+#. [message]: speaker=Price
+#: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:338
+msgid "Go! I will make sure none follow!"
+msgstr ""
+
+#. [scenario]: id=9_The_Zederians_Return
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:4
+msgid "The Zederians Return"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:16
+msgid "The fact that some Terradorian soldiers had split from the Military was unsettling. How deep did it go? Where there even some Fleet Commanders that felt like this? I realized that the succession from the Terrador Military would have taken time, and as such..."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:20
+msgid "Suddenly it hit me. Such a succession would have taken years to complete. Here was the reason for Flameslash's choice! I must have been the only one that he could trust, thanks to my being from the Core Worlds for so long. It seems my out-of-system deployment had been a better thing than I had expected!"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:24
+msgid "Alderman, when I confided in him, as startled, as well, but he agreed. It seems that we, like Flameslash, could trust no one. As I was walking back out of the bridge, one of the officers shouted, 'Sirs! Zederian ships! Landing on that moon nearby! I immediately went back over to Alderman and told him to stay just out of range. What were the Zederians thinking? Why did they come into Terradorian space?"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:44
+msgid "Find out why the Zederians have returned"
+msgstr ""
+
+#. [side]: type=Fleet_Commander, id=Ryter
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:69
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:76
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:57
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:63
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:64
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:72
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:88
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:17
+msgid "Ryter"
+msgstr ""
+
+#. [side]: type=Elite_Warrior, id=Zederian Leader
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:84
+msgid "Mazz-Grach"
+msgstr ""
+
+#. [side]: type=Captain, id=Terrador Traitor
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:103
+msgid "Traitor"
+msgstr ""
+
+#. [message]: speaker=Terrador Traitor
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:122
+msgid "So, you will protect me and allow me to join you if I can get you a planet to rebuild upon?"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:127
+msgid "Indeed. However it disgusts me to work with a pathetic human, it is necessary to rebuild our glorious empire to its former glory."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:132
+msgid "That Terrador Captain is selling out his country! I will kill that traitor myself!"
+msgstr ""
+
+#. [message]: speaker=Terrador Traitor
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:137
+msgid "We've been discovered! We must flee!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:142
+msgid "No! We will fight! Even if we die, the planet's location has already been sent to our ships!"
+msgstr ""
+
+#. [message]: speaker=Terrador Traitor
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:147
+msgid "Nooo! I don't want to die!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:152
+msgid "Damn! We've been discovered! We have to fight!"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:157
+msgid "Eliminate the Zederian and the Traitor"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#. [message]: speaker=Lerin
+#. [message]: speaker=TSA
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:186
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:343
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:363
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:155
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:275
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:225
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:188
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:327
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:402
+msgid "Aghhhhh..."
+msgstr ""
+
+#. [message]: speaker=Terrador Traitor
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:206
+msgid "No! I don't... want... to... die... *dies*"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:210
+msgid "That is what you get for treachery."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:221
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:310
+msgid "Damn..."
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:241
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:330
+msgid "Avenge me..."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:258
+msgid "That's the last of them, but the resurrection of the Zederians is troubling news, even if we weren't in the middle of a Civil War."
+msgstr ""
+
+#. [scenario]: id=11_A_Truce
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:4
+msgid "A Truce"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:16
+msgid "The appearance of yet another race was unsettling. The fact that this race showed no pity or civility of any kind made them a more dangerous threat than the Zederians. They infected and possessed men in combat, turning our fallen into their soldiers."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:20
+msgid "The Xylash, as they were called by the Zederians, were an unknown entity to us humans. However, I decided to change that. Gathering up one of the bodies of the slain Xylash, I had my Medics take it to quarantine to examine it."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:24
+msgid "The Medics dissected it, and found a very small brain, which was not surprising. What was surprising was the absence of any sexual organs. It seemed that infecting humanoids was the creature's only way of reproducing. The Medics continued making discoveries, and I watching from the bridge via holo-screen, when something happened. One of the Medics, not looking where his scalpel was going, accidentally cut into the creature's spore sac."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:28
+msgid "The Medics screamed to be let out, but I knew the if I did, we were all doomed. The spores ate right through the Medic's biohazard suits, infecting them and transforming them into the Infected we had seen before."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:33
+msgid "My hand shaking, I pressed the red button next to the holofeed. Jets of flames shot out of the wall, and I saluted sharply. 'Your sacrifice will not be in vain. Die with honor.' Suddenly, Alderman interrupted my salute. 'Fleet Commander! We have a Zederian Councilor under attack from the Xylash! Orders?'"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:37
+msgid "Thinking of the fallen Medics, I turned towards him. 'Set us down. No one, Zederian or human, deserves to die in such a horrible way.'"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:47
+msgid "Destroy the Xylash"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:63
+msgid "Death of Lerin, the Zederian Councilor"
+msgstr ""
+
+#. [side]: type=Council_Member, id=Lerin
+#. [unit]: id=Lerin, type=Council_Member
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:104
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:82
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:27
+msgid "Lerin"
+msgstr ""
+
+#. [unit]: id=Defender, type=Warrior_1st_Class
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:118
+msgid "Nrrani"
+msgstr ""
+
+#. [unit]: id=Defender2, type=Warrior_1st_Class
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:131
+msgid "Bylcc"
+msgstr ""
+
+#. [unit]: id=Defender3, type=Warrior_1st_Class
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:144
+msgid "Yicc"
+msgstr ""
+
+#. [unit]: id=Defender4, type=Warrior_1st_Class
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:157
+msgid "Zerrac"
+msgstr ""
+
+#. [side]: type=Xylash_Hivelord, id=Xylash
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:175
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:131
+msgid "Scree-Ach"
+msgstr ""
+
+#. [unit]: id=Grub, type=Xylash_Grub
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:189
+msgid "Nil"
+msgstr ""
+
+#. [unit]: id=Grub2, type=Xylash_Grub
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:202
+msgid "Mil"
+msgstr ""
+
+#. [unit]: id=Grub3, type=Xylash_Grub
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:215
+msgid "Zil"
+msgstr ""
+
+#. [unit]: id=Grub4, type=Xylash_Grub
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:228
+msgid "Xil"
+msgstr ""
+
+#. [unit]: id=Grub5, type=Xylash_Grub
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:241
+msgid "Cil"
+msgstr ""
+
+#. [unit]: id=Grub6, type=Xylash_Grub
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:254
+msgid "Vil"
+msgstr ""
+
+#. [unit]: id=Grub7, type=Xylash_Grub
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:267
+msgid "Bil"
+msgstr ""
+
+#. [message]: speaker=Defender3
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:292
+msgid "Councilor! We cannot last much longer against the Xylash!"
+msgstr ""
+
+#. [message]: speaker=Lerin
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:297
+msgid "Fight, my brothers! Fight well, and our names will be remembered forever!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:302
+msgid "Zederian Councilor! Help has come! Terradorian forces come to aid you in the battlefield!"
+msgstr ""
+
+#. [message]: speaker=Lerin
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:307
+msgid "Humans? Helping Zederians? Impossible! Why would you bother to help us?"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:312
+msgid "No one deserves to die at the hands of the Xylash. Do you accept our aid or not?"
+msgstr ""
+
+#. [message]: speaker=Lerin
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:317
+msgid "If it aids my fellows, so be it. Hurry, or all will be lost!"
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:322
+msgid "This is screwed up. We are HELPING the Zederians? We should be in orbit, watching them burn! I disagree with this action, Fleet Commander!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:327
+msgid "Men! Defend the Zederians! Newton, you may not agree with my decision, but I am your superior, and you WILL obey my orders."
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:332
+msgid "Yessir, Fleet Commander!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:383
+msgid "That's it; it's dead. Is everyone all right?"
+msgstr ""
+
+#. [message]: speaker=Lerin
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:387
+msgid "Better than what would have happened if you hadn't shown up. Thank you for your aid, human. Maybe the Council was wrong about you and your kind. I was amazed to see that you would risk your life to help an enemy. To show my gratitude, I place myself and my troops under your command."
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:391
+msgid "Great; first we save them, then they join us! What next?!?!"
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:409
+msgid "Damn... I died helping Zederians. Who'd have thought?"
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/11_A_Truce.cfg:429
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:236
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:292
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:248
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:410
+msgid "Don't... let me become... one of those... things..."
+msgstr ""
+
+#. [scenario]: id=15_The_Final_Battle
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:4
+msgid "The Final Battle"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:13
+msgid "The Xylash were dead, but we had other problems. When we got back out of the caves, we suddenly found ourselves in the middle of a firece battle. The Terradorian Fleet was attacking an incoming force of hundreds, no, thousands of rebel forces! In our worry about the Xylash, the rebels had managed to build a large army, and they were attacking us directly!"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:17
+msgid "The rebels had a considerable force, but we of the Terradorian Military had superior tactics on our side. I called together my fleet and forces, and commanded the attack. In the skies, the fleet, led by the Admiral, engaged the rebel fleet, making their air support useless."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:21
+msgid "Nevertheless, their forces were countless, and ours were limited from the recent journey underground. However, we still had an ace up or sleeve. The Zederians, who Lerin informed me were now enemies of the rebels, quickly agreed to come and help with the battle once Lerin contacted them, so they and humans could finally become allies. If we could just hold out until their fleet arrived..."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:31
+msgid "Eliminate the Rebels"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:43
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:51
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:55
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:71
+msgid "Death of Lerin"
+msgstr ""
+
+#. [side]: type=Fleet_Commander, id=Gree
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:85
+msgid "Rebel Commander Gree"
+msgstr ""
+
+#. [message]: speaker=Gree
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:111
+msgid "Prepare to die with the rest of the Terradorian Fleet, Fleet Commander Ryter!"
+msgstr ""
+
+#. [message]: speaker=Lerin
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:116
+msgid "Nay, it is you who shall perish this day!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:121
+msgid "All forces, attack! Its time to end this war! FOR TERRADOR!!!!"
+msgstr ""
+
+#. [message]: id=Ryter
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:133
+msgid "There! The Zederian Fleet!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:175
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:208
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:347
+msgid "Nooooooo!!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:192
+msgid "No! They will overrun us if this takes any longer!"
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:206
+msgid "That is it. The end of the war."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:210
+msgid "Yes. This means... Peace. Finally."
+msgstr ""
+
+#. [scenario]: id=10_The_Xylash
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:4
+msgid "The Xylash"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:16
+msgid "After scouring the area for any remaining traces of the Zederians, I contacted command via a secure holo-channel. Central Command was interested to find out about the rebels, and immediately put me to the task of eliminating them."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:20
+msgid "I protested that they were just men who wanted a different lifestyle, after seeing the horrors of the war with the Zederians, but command cut me off. They were... amused. After they had attacked me, I was defending them? Nevertheless, they threatened dishonorable discharge if I refused to comply. Reluctantly, I agreed."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:24
+msgid "I set out to the location given to me by Command. It seemed that they had set up a center on the farthest reaches of the newly-colonized Delta Quadrant, near the ruins of the destroyed Zederian Council. This interested me. Why would they set up a base here, of all places?"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:28
+msgid "I sent out several recon patrols, even though it was against regulation to do so, and one patrol gave me an interesting tale of how they had managed to uncover remains of an unknown alien species; one that was definitely not Zederian. worried that they might be attempting to create a new weapon, I immediately ordered the commencement of the attack."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:38
+msgid "Destroy the Rebels"
+msgstr ""
+
+#. [side]: type=Commander, id=Herdan
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:91
+msgid "Cpl. Herdan"
+msgstr ""
+
+#. [unit]: id=Guard1, type=Rocket
+#. [unit]: id=Guard2, type=Cannon
+#. [unit]: id=Guard3, type=Rocket
+#. [unit]: id=Guard4, type=Cannon
+#. [unit]: id=Guard5, type=Rocket
+#. [unit]: id=Guard6, type=Cannon
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:105
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:118
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:131
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:144
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:157
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:170
+msgid "Base Guard"
+msgstr ""
+
+#. [side]: type=Xylash_Hivelord, id=Xylash
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:188
+msgid "Unknown Alien"
+msgstr ""
+
+#. [unit]: id=Grub, type=Xylash_Grub
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:202
+msgid "Grub"
+msgstr ""
+
+#. [message]: speaker=Herdan
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:221
+msgid "That's it! Get that alien to the labs! We might be able to use it as a weapon if what the Zederian legends say is true."
+msgstr ""
+
+#. [message]: speaker=Herdan
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:226
+msgid "What the... The alien is waking up! And look! From the hills! Another of those alien things!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:231
+msgid "It's alive... and it's called for help..."
+msgstr ""
+
+#. [message]: speaker=Xylash
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:236
+msgid "SCREEE!!!"
+msgstr ""
+
+#. [message]: speaker=Herdan
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:241
+msgid "HELP!!!"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:246
+msgid "Eliminate the Rebels and the Xylash"
+msgstr ""
+
+#. [message]: speaker=Xylash
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:295
+msgid "SCREEE!!! SCREEE!!! SCR- *WHUMP*"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:299
+msgid "Oh, shut up!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:347
+msgid "What in the name of the Core Worlds were those things? They actually infect and consume fallen forces?!? I need to think..."
+msgstr ""
+
+#. [scenario]: id=1_The_Zederians
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:4
+msgid "The Zederians"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:16
+msgid "In the year 2052, the corrupt governments of the United States and the European Union went to war. The war was ended when an experimental antimatter weapon was detonated, sending a shockwave from the planet to the sun. This caused it to expand and condense, preparing to become supernova. Finally realizing their error, the world immediately went into panic, and only a few were able to get off-planet using a new experimental warp drive that allowed them to reach the speed of light. The few people who managed to get passage off Earth by bribery or position managed to send themselves hurtling deep into unknown space as the sun became a supernova, obliterating the entire solar system."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:20
+msgid "Three generations later the humans found themselves in a new galaxy- a collection of systems far greater than our own, most of which were habitable. Naming this new galaxy Terrador, (After the Latin word terra, meaning Earth) the humans settled in a solar system scarcely seventy light-years from the galaxy's core. These were named The Core Worlds and became the center of humankind's new empire."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:24
+msgid "However, the humans soon found themselves overflowing with peoples for just the Core worlds, and were forced to begin colonization of the other quadrants of the galaxy. In 34 AT (After Terrador), the humans expanded to capture several systems, dubbed the Alpha Quadrant. These new planets were soon plagued by rebellions and terrorist groups, so the Terradorian Military was created, for the purpose of protecting the Terradorian people."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:29
+msgid "The rebels and terrorists in the Alpha Quadrant were a serious threat at first, but soon a hero emerged from the Core Worlds: Flameslash Gerinan. He led the Terrador Military to success after success, eventually eliminating the rebel's HQ with the Terradorian Military's newest laser weapons. Soon, the humans were able to expand to conquer Beta Quadrant,  then Gamma Quadrant. However, when ships were sent out to Delta Quadrant, nothing was heard of them again and so Delta Quadrant was renamed. It became the Forbidden Quadrant."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:33
+msgid "My story began when the Core Worlds were just simple colonies. I was just a boy when Alpha Quadrant was colonized, and only 13 when the terrorists blew apart Alpha Command. When I grew to an age of 16, I joined the Academy I soon graduated at the age of 18, they youngest ever to do so."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:37
+msgid "I was positioned in a lot of outposts, and was also ordered to command forces escorting colony ships heading to Beta and Gamma Quadrants. Luckily, I wasn't commanding the men going into Delta- the Forbidden Quadrant, or I wouldn't be talking to you right now. As of the beginning of the Great War, I was 25, and commanding my own battalion of forces. My ambition then was small, and I was satisfied with my Captaincy."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:41
+msgid "Unexpectedly, I received word that an entire colony on the outer rim of Gamma Quadrant had not contacted Command in weeks. Myself and my battalion of soldiers were sent to investigate. I personally was scared beyond belief; why were they sending my entire battalion? Did they expect trouble? Or was there something that they hadn't told us? Anyway, as we touched down on the moon where the colony had been located, we immediately began searching for the colony..."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:45
+msgid "... or what was left of it."
+msgstr ""
+
+#. [unit]: id=Alderman, type=Veteran_Soldier
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:86
+msgid "Alderman"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:149
+msgid "Men, scout the area and search for any signs of the colony. It should be here, but our scanners cannot find it. Alderman, are there any transmissions or rescue beacons?"
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:154
+msgid "No, sir, I don't- Captain! We have unknown contact on the long-range scanners! They are hailing us!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:159
+msgid "Put it onscreen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:165
+msgid "The screen turned black, and suddenly, a humanoid figure with blue skin and bulging red eyes appeared."
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:170
+msgid "You pathetic humans were fools for coming here. This galaxy is ours- and we will make sure you do not soil it with your filthy fingers! My fellows have already collected the heads of the people residing in this colony, and yours will add to our collections!"
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:175
+msgid "Sir! Incoming forces!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:181
+msgid "Prepare the troops! Battlestations!"
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:196
+msgid "Captain! Nooooo!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:200
+msgid "So shall all you pathetic humans die."
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:224
+msgid "Pathetic fools. Did you really think you can stand against the might of the Zederian Empire?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:244
+msgid "No! I have failed!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:248
+msgid "We had better go back and inform command. It seems we are not alone in this galaxy..."
+msgstr ""
+
+#. [scenario]: id=14_The_Hive
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:4
+msgid "The Hive"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:16
+msgid "With the arrival of the Terradorian Fleet, the Xylash that were attacking Delta Command were eliminated. The combined firepower of the fleet turned the spot where the Aliens had camped into glass, and under the glass was a cave of monstrous proportions."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:21
+msgid "After obtaining permission of Admiral Richard Bystov, who had been my replacement, myself and my foot troops traveled underground. We cut open the glass and lowered ourselves inside by grappling ropes."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:25
+msgid "Immediately, a horrible stench filled the air. We knew immediately what it was: we had found the Xylash Hive."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:29
+msgid "Myself and my troops prepared for the fight of our life. The Xylash were definitely going to put up a fight for their Hive."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:39
+msgid "Eliminate Overlord, the Xylash High Hivelord."
+msgstr ""
+
+#. [side]: type=Xylash_Hivelord, id=Guard
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:92
+msgid "Scree"
+msgstr ""
+
+#. [side]: type=Xylash_Hivelord, id=Guard2
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:130
+msgid "Scraa"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:214
+msgid "This will be our hardest mission yet. Our air support will not be able to move down here in the caves, and so they are useless. There goes the best way of killing them. Prepare for battle, men! The afte of Terrador is in our hands!"
+msgstr ""
+
+#. [message]: speaker=Lerin
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:245
+msgid "I now die, and go to join my fallen companions..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:266
+msgid "Eeyuck! What is this goo?"
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:270
+msgid "That... thing dissolved into a puddle of gunk."
+msgstr ""
+
+#. [message]: speaker=Lerin
+#: The_War_of_Terrador/scenarios/14_The_Hive.cfg:274
+msgid "The Xylash are finally dead. Our peoples are safe, my friend."
+msgstr ""
+
+#. [scenario]: id=7_Judgement
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:4
+msgid "Final Judgement"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:16
+msgid "We rushed into the Council Chambers, and prepared for the final confrontation with the Zederians."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:20
+msgid "This was it; the final confrontation. This would decide who won the war, and who would lose their place in this galaxy."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:30
+msgid "Kill the Zederian Grand Councilor"
+msgstr ""
+
+#. [side]: type=Council_Head, id=GC
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:90
+msgid "Grand Councilor"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:109
+msgid "The Zederian Council is just beyond. They will undoubtedly have a large army assembled, so we should be careful."
+msgstr ""
+
+#. [message]: speaker=Flameslash
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:114
+msgid "With the death of the Zederian Council, the Zederians won't have any morale left to fight."
+msgstr ""
+
+#. [message]: speaker=GC
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:119
+msgid "You dare to challenge my might in my own antechamber? For that, you will pay!"
+msgstr ""
+
+#. [message]: speaker=Flameslash
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:124
+msgid "For Terrador!"
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:129
+msgid "This is gonna be hard..."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:261
+msgid "That's it. The war is over. We no longer have to live in fear of the Zederians."
+msgstr ""
+
+#. [message]: speaker=Flameslash
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:265
+msgid "The Zederians are defeated. Congratulations, Fleet Commander Ryter."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:269
+msgid "Sir?"
+msgstr ""
+
+#. [message]: speaker=Flameslash
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:273
+msgid "My time in Terrador's military has drawn to a close. You have done a great service for Terrador, son. For this service, I am pleased to make you a Fleet Commander."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:278
+msgid "Sir, Thank you, Sir! I will serve the Terradorian Military to the best of my skills!"
+msgstr ""
+
+#. [message]: speaker=Flameslash
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:282
+msgid "I'm sure you will. Good Luck."
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:287
+msgid "I'm happy for you, Capt- I mean, Fleet Commander Ryter! I'm sure you will do fine!"
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/7_Judgement.cfg:291
+msgid "Congrats, Ryter! I knew from the start you were meant for greatness!"
+msgstr ""
+
+#. [scenario]: id=12_The_Beginning_Of_The_End
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:4
+msgid "The Beginning of the End"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:13
+msgid "So a truce was proposed between myself and the Councilor, Lerin. We agreed to work together to take down both the Traitors and the Xylash. I was personally interested in why Lerin agreed to help us with the Teraitors, but he simply said that he was a member of the old council, and if the Zederians allied with traitors, they would in turn betray them."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:17
+msgid "The fact that Lerin was a Councilor from the Old Council surprised me. I had thought my attack slew the remaining Councilors. However, Lerin told me that the Zederian Council had several members that were not in the antechamber during my attack. From Lerin I learned the history of the Xylash, as well, and discovered that they had been around in Delta Quadrant for years, and the Zederians lived in constant fear of them. Their legends even tell of a Hivelord that managed to make the Zederians slaves for three millenia."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:21
+msgid "Lerin also helped my men with their armor, upgrading them with Zederian technology so they were stronger than usual. Lerin refused to tell any asbout the Zederian's whereabouts, however, as he believed that if i knew, his people would be wiped out."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:25
+msgid "As I was talking to Lerin, I received a transmission from Central Command. Command informed me to return to the Core Worlds and introduce them to Lerin, so they could determine if a truce, and eventually a peace, could be formed."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:29
+msgid "Before I could do anything, however, Lerin's wrist communicator beeped furiously. Lerin looked at it, and explained that a Zederian space colony was under attack by the Xylash. I immediately told Alderman to set coordinates for the Space Colony."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:33
+msgid "Newton, however, was furious. 'Why are we helping them? They are filthy murderers! Do you remember Colony Sigma Five? If you want to help them, count me out. I'm staying on the ship.' I shook my head. Newton's prejudices were getting in the way of his duty. There was only one thing I could do. 'You are guilty of disobeying a direct order, and as such, you are under military arrest. Take him to the brig. You will be court-marshaled when we get to Central Command.' The men on the bridge led him away as the Zederian Space Colony appeared."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:43
+msgid "Destroy the Xylash to keep them from eliminating the colony."
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:59
+msgid "Death of Derac"
+msgstr ""
+
+#. [side]: type=Council_Member, id=Derac
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:112
+msgid "Derac"
+msgstr ""
+
+#. [message]: speaker=Derac
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:157
+msgid "Help us, brother! The Xylash are attacking!"
+msgstr ""
+
+#. [message]: speaker=Lerin
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:162
+msgid "We are here to help, my brother! This human has agreed to help us!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:167
+msgid "My forces will aid in the defense of your colony. We are happy to help."
+msgstr ""
+
+#. [message]: speaker=Derac
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:172
+msgid "Here they come! Warriors! To arms!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:177
+msgid "Let's go, troops! Attack!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:228
+msgid "The Xylash are retreating. The colony is no longer in danger."
+msgstr ""
+
+#. [message]: speaker=Lerin
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:232
+msgid "The colony is safe. We can go to your Central Command, now."
+msgstr ""
+
+#. [message]: speaker=Derac
+#: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:236
+msgid "Thank you, human, for your aid. If you hadn't come, we would have all become one of... them."
+msgstr ""
+
+#. [scenario]: id=13_The_Siege
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:4
+msgid "The Siege of Delta Command"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:16
+msgid "CHAPTER 3: The Fate of a Hero"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:20
+msgid "Fighting alongside my former enemies was an odd experience. I didn't fully trust them, and always kept my eye on Lerin. I knew that that was an unethical procedure, but what would you have done?"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:25
+msgid "Lerin was tired from the recent fighting, and I decided to probe him with more questions. Lerin explained that the Zederians were organized into a democracy, where the civilians voted on the people they wanted for leader. However, recently, before my attack, High Councilor Arctui, who was the one I had killed, grew too power-hungry and ordered the attack of the human colony Sigma five. This marked the beginning of the war, and Lerin stated that he and his men had refused to follow orders, forcing him to be exiled on a Xylash-overrun planet."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:29
+msgid "Lerin told of how some Zederians hated the humans for their expansion into Zederian lands, but others wished to open communication and share knowledge. Lerin was originally one of those that wished to share with us humans, but when the Terrador Military destroyed his home, he grew to hate humans, until he met me."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:33
+msgid "I was confused. I never heard of the Terradorian Military assaulting the Zederians. I had believed that, until my attack, the Terradorians had fought an exclusively defensive war, but it seemed this was not so. Could this be the reason the war truly began? I would have to find out at Central Command."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:37
+msgid "Suddenly, a holo-communication interrupted our conversation. The message was shaky and broken, but the words we heard were clear enough: 'Delta...Comm..under..att..ne..reinforcements. Repea...send...he..'"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:41
+msgid "'Where is that coming from?' I asked Alderman. 'Delta Command, sir. The message is garbled, but I managed to understand most of it. It said that Delta Command is under attack by thousands of Xylash, and needs immediate reinforcements.' I shook my head. 'We won't survive without help for this one. Even the Zederians will to make us numerous enough to take out that many Xylash forces. Any word from command?'"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:45
+msgid "'No, sir, I'm picking up not... Sir? We have orders from command- data was just received. They want us to get down there and help. Reinforcements are on the way, but without immediate reinforcements, they will be destroyed.' I nodded. 'Let's go. Alert the fleet, and prep the men. We have to defend Delta Command.'"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:55
+msgid "Destroy the Xylash to keep them from eliminating the colony. (Bonus)"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:59
+msgid "Survive"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:75
+msgid "Death of Commander Mackenzie"
+msgstr ""
+
+#. [side]: type=Commander, id=Derac
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:116
+msgid "Commander Mackenzie"
+msgstr ""
+
+#. [side]: type=Xylash_Hivelord, id=Xylash
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:135
+msgid "Scree-Achee"
+msgstr ""
+
+#. [message]: speaker=Derac
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:160
+msgid "Finally! Reinforcements have arrived!"
+msgstr ""
+
+#. [message]: speaker=Lerin
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:165
+msgid "We have come to aid the defense of this place!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:170
+msgid "We have been given orders by command to help the defense of this colony. The Zederian here is also a friend."
+msgstr ""
+
+#. [message]: speaker=Derac
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:175
+msgid "Fine, but I'm keeping an eye on him. Hurry! Here they come!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:180
+msgid "Set up a perimeter! Make sure they do not break through!"
+msgstr ""
+
+#. [message]: id=Ryter
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:188
+msgid "We can't last much longer! I hope Central Command hurries!"
+msgstr ""
+
+#. [unit]: type=Bomber, type=Fighter, id=Yredd
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:202
+msgid "Yredd"
+msgstr ""
+
+#. [unit]: type=Flagship, type=Bomber, id=Zinn
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:217
+msgid "Zinn"
+msgstr ""
+
+#. [unit]: type=Bomber, type=Fighter, id=Yredda
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:232
+msgid "Yredda"
+msgstr ""
+
+#. [message]: id=Zinn
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:243
+msgid "This is Fighter Squadron Blackfire, here to help. Need a hand?"
+msgstr ""
+
+#. [message]: id=Ryter
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:247
+msgid "Glad you are here, Blackfire. Take position and help us defend this base."
+msgstr ""
+
+#. [unit]: type=Veteran_Soldier, id=Noy
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:257
+msgid "Noy"
+msgstr ""
+
+#. [unit]: type=Terradors_Finest, id=Turuk
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:268
+msgid "Turuk"
+msgstr ""
+
+#. [unit]: type=Veteran_Soldier, id=Sapient
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:279
+msgid "Sapient"
+msgstr ""
+
+#. [unit]: type=Veteran_Soldier, id=Jetryl
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:290
+msgid "Jetryl"
+msgstr ""
+
+#. [unit]: type=Veteran_Soldier, id=West
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:301
+msgid "West"
+msgstr ""
+
+#. [message]: id=Turuk
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:312
+msgid "This is Commander Turuk Nichelson of Soldier Platoon MOD087. We are here to help!"
+msgstr ""
+
+#. [message]: id=Ryter
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:316
+msgid "We sure could use your help, Turuk. You and the rest of MOD Platoon need to get to the perimeter and help my forces."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:364
+msgid "Look! In orbit- the entire Terrador fleet!"
+msgstr ""
+
+#. [message]: speaker=Lerin
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:368
+msgid "Most impressive. I did not imagine how many ships you had in your fleet."
+msgstr ""
+
+#. [message]: speaker=Derac
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:372
+msgid "The fleet is beginning to bombard the Xylash! We have won!"
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/13_The_Siege.cfg:384
+msgid "Hoo-rah! the Xylash are retreating!"
+msgstr ""
+
+#. [scenario]: id=8_Civil_War
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:4
+msgid "The Civil War"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:16
+msgid "CHAPTER 2: Blood and Blasters"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:20
+msgid "True to his word, Flameslash made me an Admiral. However, due to the immense responsibility, a year later I gave up the rank of Admiral, instead preferring the control of a Fleet Commander. Several of my friends in the Core Worlds arranged it so that I became the CO of Alderman, who had been promoted to Battleship Captain, and was captain of my ship, the Spectral Angel."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:29
+msgid "Also in my fleet's roster was my old friend Newton. He had been promoted several times, and was now a SpecOps Supreme Commander, commanding every SpecOps in my fleet. My friends and I spent a year discussing what had happened in the Zederian War, as it was coming to be called. Most interesting of our topics was how Flameslash chose me to lead the final mission, and not himself."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:33
+msgid "My fleet back then had been small, but somehow, Flameslash had chosen me out of all of the more powerful and experienced Commanders in the Terradorian army. Believe me, I was astounded by the choice."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:38
+msgid "However, a few months later, I stumbled across a holonews broadcast from the Core Worlds. Imagine my surprise when I saw Flameslash's picture on the screen. I hurriedly turned it up, and this is what I heard:"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:42
+msgid "'Ex-Admiral Flameslash was found murdered in him home today, much to the bafflement of local crime fighters. The government plans to hold a commemorative service today in honor of his memory. As most of you know, Flameslash led the first assaults on the terror-'"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:46
+msgid "I turned it off after that point. I was stunned. Flameslash, dead? Who would want to kill him, and why? The Zederians had dissolved into a set of squabbling factions, and Flameslash was respected by nearly everyone in the Terrador Galaxy."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:50
+msgid "However, as I was standing there thinking, an alarm sounded, and a red light filled my room. Immediately, Alderman's voice crackled over the intercom. 'Fleet Commander! We are under attack by friendlies!' That made me freeze. Allied Terradorian forces are firing at us? Why? I immediately headed to the bridge and looked out. Sure enough, there was a Terradorian fleet, led by a battleship named 'The Golden Explorer'"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:54
+msgid "Nevertheless, they were attacking us, so I ordered Alderman to open communications to find out what was going on."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:71
+msgid "Kill The Golden Explorer"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:75
+msgid "Death of Ryter (The Spectral Angel)"
+msgstr ""
+
+#. [side]: type=Flagship, id=TSA
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:88
+msgid "The Spectral Angel"
+msgstr ""
+
+#. [unit]: id=GBomber1, type=Bomber
+#. [unit]: id=GBomber2, type=Bomber
+#. [unit]: id=GBomber3, type=Bomber
+#. [unit]: id=GBomber4, type=Bomber
+#. [unit]: id=Bomber1, type=Bomber
+#. [unit]: id=Bomber2, type=Bomber
+#. [unit]: id=Bomber3, type=Bomber
+#. [unit]: id=Bomber4, type=Bomber
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:98
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:111
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:124
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:137
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:312
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:325
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:338
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:351
+msgid "Bomber"
+msgstr ""
+
+#. [unit]: id=GFighter1, type=Fighter
+#. [unit]: id=GFighter2, type=Fighter
+#. [unit]: id=GFighter3, type=Fighter
+#. [unit]: id=GFighter4, type=Fighter
+#. [unit]: id=GFighter5, type=Fighter
+#. [unit]: id=GFighter6, type=Fighter
+#. [unit]: id=Fighter1, type=Fighter
+#. [unit]: id=Fighter2, type=Fighter
+#. [unit]: id=Fighter3, type=Fighter
+#. [unit]: id=Fighter4, type=Fighter
+#. [unit]: id=Fighter5, type=Fighter
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:150
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:163
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:176
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:189
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:202
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:215
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:247
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:260
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:273
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:286
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:299
+msgid "Fighter"
+msgstr ""
+
+#. [side]: type=Flagship, id=TGE
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:233
+msgid "The Golden Explorer"
+msgstr ""
+
+#. [message]: speaker=TSA
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:369
+msgid "This is Fleet Commander Ryter Millinski. Who are you and why are you attacking us? We have done you no harm. We do not wish to fight you."
+msgstr ""
+
+#. [message]: speaker=TGE
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:374
+msgid "Your death was predicted a long time ago, so. Just sit back and watch the fireworks as we blow your fleet out of the sky."
+msgstr ""
+
+#. [message]: speaker=TSA
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:379
+msgid "What?!? Why are you attacking us?! We are fellow Terradorians! I warn you, do not provoke my wrath."
+msgstr ""
+
+#. [message]: speaker=TGE
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:384
+msgid "You say you work for Terrador, but you really work for the buffoons from Central Command. You should join us as we unleash our righteous fury!"
+msgstr ""
+
+#. [message]: speaker=TSA
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:391
+msgid "Never! How dare you attempt to dissuade me from my country and cause! I have given enough warning- all ships, open fire!"
+msgstr ""
+
+#. [message]: speaker=TSA
+#: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:419
+msgid "I think we may have discovered Flameslash's killers. We should notify Central Command."
+msgstr ""
+
+#. [scenario]: id=16_Epilogue
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:4
+msgid "Epilogue"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:49
+msgid "As the Rebel leader perished, the rest of the rebels threw down their arms and surrendered. The Zederians and Terradorians cheered, for the war was over."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:54
+msgid "I was given several medals of valor and honor, and Lerin was given the honor of being elected High Councilor. Soon, however, it was decided the two councils should become one, and I was chosen to become the leader of the Terradorian Grand Council."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:59
+msgid "So here I am today; I make sure the Great War never happens again by word of mouth, rather than commanding armies. Newton was send to military prison for a year, and released on good behavior. He died in a bar fight with a Zederian. Alderman became Fleet Commander in my stead, and he sends almost half his fleet to watch over me and the rest of the council every day, rain or shine."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:64
+msgid "If you would have told me a year and a half ago that I would end up becoming the greatest hero in all of Terrador History, I would have laughed in your face. But it seems fate has a change of heart for those who are brave and strong. Now, if you excuse me, we should have been deliberating three hours ago, and instead all of you have let me tell my boring history. Let's begin..."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:69
+msgid "CREDITS"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:74
+msgid "Unit Sprites: (Vehicles and Ships) Maeglin Dubh and the rest of the Spacenoth team."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:79
+msgid "Unit Sprites: (Terradorian Infantry) Dragonchampion and Flameslash."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:84
+msgid "Unit Sprites: (Zederian Infantry & Xylash Aliens) Woodmouse and Dragonchampion"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:89
+msgid "Terrain: Mnewton1 and Bob The Mighty (for the Spaceport)."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:93
+msgid "Xylash Infected defend sprite, Warrior Attack animation line: Huntermesa"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:99
+msgid "All coding/animating by Dragonchampion."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:104
+msgid "Special Thanks: Huntermesa, Indora, Mnewton, Flameslash, Timothy Williams, Turuk, The Great Rings, and anyone else I forgot to mention. Thanks for playing!"
+msgstr ""
+
+#. [scenario]: id=4_To_Beta
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:4
+msgid "The Retreat"
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:16
+msgid "The arrival of Newton and his SpecOps was fortunate. They helped us turn the tide. Without them, we would have undoubtedly lost."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:20
+msgid "After detonating a bomb inside Gamma Command, Newton explained why he had been sent. He told us that Gamma Quadrant had been almost completely wiped out in a matter of weeks, and Gamma Command had been the last operable Terrador military stronghold before its fall. His SpecOps had confronted the Zederians in a guerrilla war, and had successfully attempted to free a set of human slaves from the Zederians when he was given new orders."
+msgstr ""
+
+#. [part]
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:24
+msgid "He explained that we had to get back to Beta command, where a fleet was waiting to engage the Zederians. However, I still was nervous. How many Zederians where there? If they all fought like the ones we had encountered before, our fleet would be in trouble. However, we still had to obey orders, and soon were were heading to Beta Command, unsure of what was to come."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:34
+msgid "Eliminate the Zederian Raiders"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:38
+msgid "Retreat to Beta Quadrant in the northwest."
+msgstr ""
+
+#. [side]: type=Cruiser, id=Zederian Leader
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:92
+msgid "Zederian Cruiser"
+msgstr ""
+
+#. [unit]: id=Wasp1, type=Hornet
+#. [unit]: id=Wasp2, type=Hornet
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:106
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:120
+msgid "Zederian Hornet"
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:139
+msgid "The Zederians have formed a blockade! We cannot get to Beta Command!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:144
+msgid "The Zederians are getting nervous. They don't want us rejoining with the rest of the Terradorian military."
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:149
+msgid "We have to either get by the Zederians or eliminate them. Either way, we are in for a fierce battle."
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:154
+msgid "Ground tactics are possible, but we wouldn't get far. We need to focus on space tactics for this one."
+msgstr ""
+
+#. [message]: speaker=Alderman
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:195
+msgid "No! The Captain is dead!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:215
+msgid "Alderman! No! We are lost without him!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:219
+msgid "HahahahaHA!!!!"
+msgstr ""
+
+#. [message]: speaker=Zederian Leader
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:239
+msgid "No! They have defeated us!"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:243
+msgid "We have managed to slay the blockade leader. The path to Beta is simple from here."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:263
+msgid "We have made it! I can see Beta Command!"
+msgstr ""
+
+#. [message]: speaker=Newton
+#: The_War_of_Terrador/scenarios/4_To_Beta.cfg:267
+msgid "It's time for this war to officially begin."
+msgstr ""
+
