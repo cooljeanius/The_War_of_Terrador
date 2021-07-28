@@ -7,3 +7,5 @@ Gerinian, has sent a young Captain by the name of Ryter Millinski to investigate
 
 Follow Ryter's tale of how the Great War began and ended, and the horrors during
 it.
+
+Forum thread: https://forums.wesnoth.org/viewtopic.php?f=31&t=24967
