@@ -90,6 +90,7 @@ Update Log
 1.3.7: New Xylash Omega sprite sourtesy of Artisticdude, and also a new Zederian Warrior sprite from Teleron. Also, Xylash are now a playable Multiplayer race; with the addition of TWoT's first multiplayer map!
 1.3.8: Some new Zederian sprites from Teleron
 1.3.9: A few new changes, fixed the bug with the main scenario
+1.4.0: Ported to BfW 1.14
 
 If you like this era, tell me at the Forum!
 tkta.forumotion.com
