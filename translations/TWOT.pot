@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-07-28 05:36 UTC\n"
+"POT-Creation-Date: 2021-08-04 01:29 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2158,7 +2158,7 @@ msgstr ""
 
 #. [message]: speaker=Ryter
 #: The_War_of_Terrador/scenarios/16_Epilogue.cfg:84
-msgid "Unit Sprites: (Zederian Infantry & Xylash Aliens) Woodmouse and Dragonchampion"
+msgid "Unit Sprites: (Zederian Infantry & Xylash Aliens) Woodmouse and Dragonchampion."
 msgstr ""
 
 #. [message]: speaker=Ryter
@@ -2167,8 +2167,8 @@ msgid "Terrain: Mnewton1 and Bob The Mighty (for the Spaceport)."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:93
-msgid "Xylash Infected defend sprite, Warrior Attack animation line: Huntermesa"
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:94
+msgid "Xylash Infected defend sprite, Warrior Attack animation line: Huntermesa."
 msgstr ""
 
 #. [message]: speaker=Ryter
@@ -2178,6 +2178,11 @@ msgstr ""
 
 #. [message]: speaker=Ryter
 #: The_War_of_Terrador/scenarios/16_Epilogue.cfg:104
+msgid "Porting to BfW 1.14: Eric Gallager (egallager, a.k.a. cooljeanius)"
+msgstr ""
+
+#. [message]: speaker=Ryter
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:109
 msgid "Special Thanks: Huntermesa, Indora, Mnewton, Flameslash, Timothy Williams, Turuk, The Great Rings, and anyone else I forgot to mention. Thanks for playing!"
 msgstr ""
 
