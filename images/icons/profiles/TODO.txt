@@ -1,0 +1,1 @@
+icon for the sniping attack range should go here; call it snipe_attack.png
