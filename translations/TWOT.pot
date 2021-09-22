@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-05 21:32 UTC\n"
+"POT-Creation-Date: 2021-09-22 19:12 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1050,7 +1050,8 @@ msgstr ""
 #. [unit_type]: id=Terradors_Finest, race=new_earth_human
 #. [campaign]: id=War_of_Terrador
 #: The_War_of_Terrador/units/Terrador's_Finest.cfg:5
-#: The_War_of_Terrador/_main.cfg:24
+#: The_War_of_Terrador/_main.cfg:25
+#: The_War_of_Terrador/_main.cfg:29
 msgid "Terrador's Finest"
 msgstr ""
 
@@ -1279,7 +1280,8 @@ msgstr ""
 #. [unit_type]: id=Xylash_Hivelord, race=Xylash
 #. [campaign]: id=Omega's_Tale
 #: The_War_of_Terrador/units/Xylash_Hivelord.cfg:5
-#: The_War_of_Terrador/_main.cfg:48
+#: The_War_of_Terrador/_main.cfg:55
+#: The_War_of_Terrador/_main.cfg:58
 msgid "Hivelord"
 msgstr ""
 
@@ -1311,7 +1313,8 @@ msgstr ""
 #. [unit_type]: id=Veteran_Soldier, race=new_earth_human
 #. [campaign]: id=War_of_Terrador
 #: The_War_of_Terrador/units/Terrador_Veteran_Soldier.cfg:5
-#: The_War_of_Terrador/_main.cfg:24
+#: The_War_of_Terrador/_main.cfg:25
+#: The_War_of_Terrador/_main.cfg:28
 msgid "Veteran Soldier"
 msgstr ""
 
@@ -1350,7 +1353,8 @@ msgstr ""
 #. [unit_type]: id=Soldier, race=new_earth_human
 #. [campaign]: id=War_of_Terrador
 #: The_War_of_Terrador/units/Terrador_Soldier.cfg:5
-#: The_War_of_Terrador/_main.cfg:24
+#: The_War_of_Terrador/_main.cfg:25
+#: The_War_of_Terrador/_main.cfg:27
 msgid "Soldier"
 msgstr ""
 
@@ -1436,7 +1440,8 @@ msgstr ""
 #. [campaign]: id=Omega's_Tale
 #: The_War_of_Terrador/units/Xylash_Grub.cfg:5
 #: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:202
-#: The_War_of_Terrador/_main.cfg:48
+#: The_War_of_Terrador/_main.cfg:55
+#: The_War_of_Terrador/_main.cfg:57
 msgid "Grub"
 msgstr ""
 
@@ -3735,27 +3740,48 @@ msgstr ""
 
 #. [campaign]: id=War_of_Terrador
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:24
-#: The_War_of_Terrador/_main.cfg:48
+#: The_War_of_Terrador/_main.cfg:25
+#: The_War_of_Terrador/_main.cfg:55
 msgid "(Easy)"
 msgstr ""
 
 #. [campaign]: id=War_of_Terrador
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:24
-#: The_War_of_Terrador/_main.cfg:48
+#: The_War_of_Terrador/_main.cfg:25
+#: The_War_of_Terrador/_main.cfg:55
 msgid "(Normal)"
 msgstr ""
 
 #. [campaign]: id=War_of_Terrador
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:24
-#: The_War_of_Terrador/_main.cfg:48
+#: The_War_of_Terrador/_main.cfg:25
+#: The_War_of_Terrador/_main.cfg:55
 msgid "(Hard)"
 msgstr ""
 
 #. [campaign]: id=War_of_Terrador
-#: The_War_of_Terrador/_main.cfg:26
+#. [campaign]: id=Omega's_Tale
+#: The_War_of_Terrador/_main.cfg:27
+#: The_War_of_Terrador/_main.cfg:57
+msgid "Easy"
+msgstr ""
+
+#. [campaign]: id=War_of_Terrador
+#. [campaign]: id=Omega's_Tale
+#: The_War_of_Terrador/_main.cfg:28
+#: The_War_of_Terrador/_main.cfg:58
+msgid "Normal"
+msgstr ""
+
+#. [campaign]: id=War_of_Terrador
+#. [campaign]: id=Omega's_Tale
+#: The_War_of_Terrador/_main.cfg:29
+#: The_War_of_Terrador/_main.cfg:59
+msgid "Hard"
+msgstr ""
+
+#. [campaign]: id=War_of_Terrador
+#: The_War_of_Terrador/_main.cfg:32
 msgid ""
 "A small colony on the outer rim of the Gamma Quadrant has cut all communications with the Core Worlds. Central Command, headed by Admiral Joseph Flameslash Gerinian, has sent a young Captain by the name of Ryter Millinski to investigate.\n"
 "\n"
@@ -3769,22 +3795,23 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:42
+#: The_War_of_Terrador/_main.cfg:48
 msgid "Omega's Tale"
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:43
+#: The_War_of_Terrador/_main.cfg:49
 msgid "OT"
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:48
+#: The_War_of_Terrador/_main.cfg:55
+#: The_War_of_Terrador/_main.cfg:59
 msgid "Omega Hivelord"
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:50
+#: The_War_of_Terrador/_main.cfg:62
 msgid ""
 "Follow the tale of Omega, once known as Scrak, as he enslaves and conquers the Zederian race long before humans came to the Terrador Galaxy.\n"
 "\n"
@@ -3795,7 +3822,12 @@ msgid ""
 msgstr ""
 
 #. [editor_group]: id=Space Terrain Packet
-#: The_War_of_Terrador/_main.cfg:109
+#: The_War_of_Terrador/_main.cfg:121
 msgid "Space Terrain Packet"
+msgstr ""
+
+#. [language]
+#: The_War_of_Terrador/_main.cfg:155
+msgid "snipe"
 msgstr ""
 
