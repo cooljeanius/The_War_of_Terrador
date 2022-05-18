@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-05-18 18:52 UTC\n"
+"POT-Creation-Date: 2022-05-18 19:20 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -807,26 +807,27 @@ msgstr ""
 msgid "SCREEE!!! SCREEE!!! SCR- *WHUMP*"
 msgstr ""
 
-#. [message]: speaker=unit
+#. [message]: speaker=second_unit
+#. [message]
 #: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:305
 #: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:311
 msgid "Oh, shut up!"
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:324
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:328
 #: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:221
 msgid "Damn..."
 msgstr ""
 
 #. [message]: speaker=Alderman
-#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:344
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:348
 #: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:241
 msgid "Avenge me..."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:361
+#: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:365
 msgid "What in the name of the Core Worlds were those things? They actually infect and consume fallen forces?!? I need to think..."
 msgstr ""
 
@@ -1353,7 +1354,7 @@ msgstr ""
 msgid "I now die, and go to join my fallen companions..."
 msgstr ""
 
-#. [message]: speaker=unit
+#. [message]: speaker=second_unit
 #: The_War_of_Terrador/scenarios/14_The_Hive.cfg:272
 msgid "Eeyuck! What is this goo?"
 msgstr ""
