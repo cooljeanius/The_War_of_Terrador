@@ -1,5 +1,6 @@
 # The_War_of_Terrador
-A Wesnoth add-on, copied from the 1.8 add-on server to forward-port to 1.14.
+A Wesnoth add-on, copied from the 1.8 add-on server to forward-port to 1.14
+(and then later to 1.16).
 
 A small colony on the outer rim of the Gamma Quadrant has cut all communications
 with the Core Worlds. Central Command, headed by Admiral Joseph Flameslash

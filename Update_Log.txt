@@ -92,6 +92,7 @@ Update Log
 1.3.9: A few new changes, fixed the bug with the main scenario
 1.4.0: Ported to BfW 1.14
 1.4.1: Fixed some bugs, mostly with terrain graphics
+1.4.2: Ported to BfW 1.16
 
 If you like this campaign, give feedback on the Wesnoth Forums!
 forums.wesnoth.org/viewtopic.php?f=31&t=24967&start=120
