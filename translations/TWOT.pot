@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-05-18 19:20 UTC\n"
+"POT-Creation-Date: 2022-11-30 08:07 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -163,7 +163,7 @@ msgstr ""
 
 #. [part]
 #: The_War_of_Terrador/OTscenarios/2_Protect.cfg:18
-msgid "My mission was a success. I had slain the Zederian fools, and used their bodies to spawn my minions for battle. However, now cam the task of returning them to the Hive. I had ventured out far in my attempts to eliminate the rest of them, and so I now had to protect them as they went a fair distance to the Hive itself..."
+msgid "My mission was a success. I had slain the Zederian fools, and used their bodies to spawn my minions for battle. However, now came the task of returning them to the Hive. I had ventured out far in my attempts to eliminate the rest of them, and so I now had to protect them as they went a fair distance to the Hive itself..."
 msgstr ""
 
 #. [part]
@@ -183,7 +183,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: The_War_of_Terrador/OTscenarios/2_Protect.cfg:135
-msgid "get the food to the Hive"
+msgid "Get the food to the Hive"
 msgstr ""
 
 #. [objective]: condition=lose
@@ -398,72 +398,48 @@ msgstr ""
 
 #. [campaign]: id=War_of_Terrador
 #. [unit_type]: id=Soldier, race=new_earth_human
-#: The_War_of_Terrador/_main.cfg:25
-#: The_War_of_Terrador/_main.cfg:27
-#: The_War_of_Terrador/units/Terrador_Soldier.cfg:5
+#: The_War_of_Terrador/_main.cfg:23
+#: The_War_of_Terrador/units/Terrador/Terrador_Soldier.cfg:5
 msgid "Soldier"
 msgstr ""
 
 #. [campaign]: id=War_of_Terrador
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:25
-#: The_War_of_Terrador/_main.cfg:55
-msgid "(Easy)"
+#: The_War_of_Terrador/_main.cfg:23
+#: The_War_of_Terrador/_main.cfg:48
+msgid "Easy"
 msgstr ""
 
 #. [campaign]: id=War_of_Terrador
 #. [unit_type]: id=Veteran_Soldier, race=new_earth_human
-#: The_War_of_Terrador/_main.cfg:25
-#: The_War_of_Terrador/_main.cfg:28
-#: The_War_of_Terrador/units/Terrador_Veteran_Soldier.cfg:5
+#: The_War_of_Terrador/_main.cfg:24
+#: The_War_of_Terrador/units/Terrador/Terrador_Veteran_Soldier.cfg:5
 msgid "Veteran Soldier"
 msgstr ""
 
 #. [campaign]: id=War_of_Terrador
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:25
-#: The_War_of_Terrador/_main.cfg:55
-msgid "(Normal)"
+#: The_War_of_Terrador/_main.cfg:24
+#: The_War_of_Terrador/_main.cfg:49
+msgid "Normal"
 msgstr ""
 
 #. [campaign]: id=War_of_Terrador
 #. [unit_type]: id=Terradors_Finest, race=new_earth_human
 #: The_War_of_Terrador/_main.cfg:25
-#: The_War_of_Terrador/_main.cfg:29
-#: The_War_of_Terrador/units/Terrador's_Finest.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador's_Finest.cfg:5
 msgid "Terrador's Finest"
 msgstr ""
 
 #. [campaign]: id=War_of_Terrador
 #. [campaign]: id=Omega's_Tale
 #: The_War_of_Terrador/_main.cfg:25
-#: The_War_of_Terrador/_main.cfg:55
-msgid "(Hard)"
-msgstr ""
-
-#. [campaign]: id=War_of_Terrador
-#. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:27
-#: The_War_of_Terrador/_main.cfg:57
-msgid "Easy"
-msgstr ""
-
-#. [campaign]: id=War_of_Terrador
-#. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:28
-#: The_War_of_Terrador/_main.cfg:58
-msgid "Normal"
-msgstr ""
-
-#. [campaign]: id=War_of_Terrador
-#. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:29
-#: The_War_of_Terrador/_main.cfg:59
+#: The_War_of_Terrador/_main.cfg:50
 msgid "Hard"
 msgstr ""
 
 #. [campaign]: id=War_of_Terrador
-#: The_War_of_Terrador/_main.cfg:32
+#: The_War_of_Terrador/_main.cfg:27
 msgid ""
 "A small colony on the outer rim of the Gamma Quadrant has cut all communications with the Core Worlds. Central Command, headed by Admiral Joseph Flameslash Gerinian, has sent a young Captain by the name of Ryter Millinski to investigate.\n"
 "\n"
@@ -477,41 +453,38 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:48
+#: The_War_of_Terrador/_main.cfg:43
 msgid "Omega's Tale"
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:49
+#: The_War_of_Terrador/_main.cfg:44
 msgid "OT"
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
 #. [unit]: id=Grub, type=Xylash_Grub
 #. [unit_type]: id=Xylash_Grub, race=Xylash
-#: The_War_of_Terrador/_main.cfg:55
-#: The_War_of_Terrador/_main.cfg:57
+#: The_War_of_Terrador/_main.cfg:48
 #: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:202
-#: The_War_of_Terrador/units/Xylash_Grub.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Grub.cfg:5
 msgid "Grub"
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
 #. [unit_type]: id=Xylash_Hivelord, race=Xylash
-#: The_War_of_Terrador/_main.cfg:55
-#: The_War_of_Terrador/_main.cfg:58
-#: The_War_of_Terrador/units/Xylash_Hivelord.cfg:5
+#: The_War_of_Terrador/_main.cfg:49
+#: The_War_of_Terrador/units/Xylash/Xylash_Hivelord.cfg:5
 msgid "Hivelord"
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:55
-#: The_War_of_Terrador/_main.cfg:59
+#: The_War_of_Terrador/_main.cfg:50
 msgid "Omega Hivelord"
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:62
+#: The_War_of_Terrador/_main.cfg:52
 msgid ""
 "Follow the tale of Omega, once known as Scrak, as he enslaves and conquers the Zederian race long before humans came to the Terrador Galaxy.\n"
 "\n"
@@ -522,12 +495,12 @@ msgid ""
 msgstr ""
 
 #. [editor_group]: id=Space Terrain Packet
-#: The_War_of_Terrador/_main.cfg:121
+#: The_War_of_Terrador/_main.cfg:111
 msgid "Space Terrain Packet"
 msgstr ""
 
 #. [language]
-#: The_War_of_Terrador/_main.cfg:155
+#: The_War_of_Terrador/_main.cfg:145
 msgid "snipe"
 msgstr ""
 
@@ -2431,7 +2404,7 @@ msgstr ""
 #: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:273
 #: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:286
 #: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:299
-#: The_War_of_Terrador/units/Xylash_Fighter.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Fighter.cfg:5
 msgid "Fighter"
 msgstr ""
 
@@ -2560,1075 +2533,1084 @@ msgstr ""
 msgid "That's the last of them, but the resurrection of the Zederians is troubling news, even if we weren't in the middle of a Civil War."
 msgstr ""
 
-#. [unit_type]: id=binfantry, race=birilaz
-#: The_War_of_Terrador/units/Birilaz_Infantry.cfg:5
-msgid "Birilaz Infantry"
+#. [unit_type]: id=bdrone, race=birilaz
+#: The_War_of_Terrador/units/Birilaz/Birilaz_Drone.cfg:6
+msgid "Birilaz Drone"
 msgstr ""
 
+#. [unit_type]: id=bdrone, race=birilaz
 #. [unit_type]: id=binfantry, race=birilaz
-#: The_War_of_Terrador/units/Birilaz_Infantry.cfg:22
+#: The_War_of_Terrador/units/Birilaz/Birilaz_Drone.cfg:23
+#: The_War_of_Terrador/units/Birilaz/Birilaz_Infantry.cfg:22
 msgid "Basic soldiers of the Birilaz Conglomerate, these constructs are mechanical soldiers. They cannot fear, they cannot hate, they simply kill."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Birilaz_Infantry.cfg:27
+#: The_War_of_Terrador/units/Birilaz/Birilaz_Drone.cfg:28
+#: The_War_of_Terrador/units/Birilaz/Birilaz_Infantry.cfg:27
 msgid "Light Infantry Laser"
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Birilaz_Infantry.cfg:36
+#: The_War_of_Terrador/units/Birilaz/Birilaz_Drone.cfg:37
+#: The_War_of_Terrador/units/Birilaz/Birilaz_Infantry.cfg:36
 msgid "Crush"
 msgstr ""
 
+#. [unit_type]: id=binfantry, race=birilaz
+#: The_War_of_Terrador/units/Birilaz/Birilaz_Infantry.cfg:5
+msgid "Birilaz Infantry"
+msgstr ""
+
 #. [unit_type]: id=Terradors_Finest, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador's_Finest.cfg:20
+#: The_War_of_Terrador/units/Terrador/Terrador's_Finest.cfg:20
 msgid "Terrador's Finest are the best of the best. Given the latest armor and weapons, they tear through enemies like a gorilla on a rampage. They are armed with the lastest Mk-1 Laser Minigun, and also with an Energy Blade. They also have learned to heal their ally's wounds in combat, making them a very dangerous enemy."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador's_Finest.cfg:28
+#: The_War_of_Terrador/units/Terrador/Terrador's_Finest.cfg:28
 msgid "Mk-1 Laser Minigun"
 msgstr ""
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
-#: The_War_of_Terrador/units/Terrador's_Finest.cfg:37
-#: The_War_of_Terrador/units/Terrador_Fleet_Commander.cfg:38
-#: The_War_of_Terrador/units/Zederian_Elite.cfg:32
+#: The_War_of_Terrador/units/Terrador/Terrador's_Finest.cfg:37
+#: The_War_of_Terrador/units/Terrador/Terrador_Fleet_Commander.cfg:38
+#: The_War_of_Terrador/units/Zederian/Zederian_Elite.cfg:32
 msgid "Energy Blade"
 msgstr ""
 
 #. [unit_type]: id=APC, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Advanced_Jet.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Advanced_Jet.cfg:5
 msgid "YH99 Advanced Recon Jet"
 msgstr ""
 
 #. [unit_type]: id=APC, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Advanced_Jet.cfg:23
+#: The_War_of_Terrador/units/Terrador/Terrador_Advanced_Jet.cfg:23
 msgid "YH99s are designed to quickly reach and protect forces from combat. They are armed heavier than the PT82 Recon Jeep, but still are lightly-armed, to give speed and maneuverability to the vehicle. They are able to rally units around them to give them greater attacking power."
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Terrador_Advanced_Jet.cfg:31
+#: The_War_of_Terrador/units/Terrador/Terrador_Advanced_Jet.cfg:31
 msgid "Light Rocket Launcher Mk-2"
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Advanced_Jet.cfg:40
+#: The_War_of_Terrador/units/Terrador/Terrador_Advanced_Jet.cfg:40
 msgid "Anti-Infantry Laser"
 msgstr ""
 
 #. [unit_type]: id=Anti_Tank, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Anti_Tank_Destroyer.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Anti_Tank_Destroyer.cfg:5
 msgid "07AT Anti-Tank Destroyer"
 msgstr ""
 
 #. [unit_type]: id=Anti_Tank, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Anti_Tank_Destroyer.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Anti_Tank_Destroyer.cfg:19
 msgid "The Anti-Tank Destroyer is a modified version of the Destroyer. It is created to combat enemy tanks and ships, but in turn is easily dispatched by enemy anti-tank weaponry. Their strength lies in their power and speed, as they are able to eliminate distant targets quickly."
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Terrador_Anti_Tank_Destroyer.cfg:24
+#: The_War_of_Terrador/units/Terrador/Terrador_Anti_Tank_Destroyer.cfg:24
 msgid "P59 Advanced Anti-Vehicle Missiles"
 msgstr ""
 
 #. [unit_type]: id=Battlefield Medic, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Battlefield_Medic.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Battlefield_Medic.cfg:5
 msgid "Battlefield Medic"
 msgstr ""
 
 #. [unit_type]: id=Battlefield Medic, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Battlefield_Medic.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Battlefield_Medic.cfg:19
 msgid "While Battlefield Medics have gained more experience, they still are fragile, and succumb easily to most attacks. They are excellent support units, and are valuable for wounded units."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Battlefield_Medic.cfg:26
+#: The_War_of_Terrador/units/Terrador/Terrador_Battlefield_Medic.cfg:26
 msgid "Mk-2 Blaster Rifle"
 msgstr ""
 
 #. [unit_type]: id=Bomber, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Bomber.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Bomber.cfg:5
 msgid "AR-02b Bomber"
 msgstr ""
 
 #. [unit_type]: id=Bomber, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Bomber.cfg:20
+#: The_War_of_Terrador/units/Terrador/Terrador_Bomber.cfg:20
 msgid "An upgrade of the AR-02, the AR-02b is a tactical bomber, used to eliminate ground forces with their Heavy Laser Cannons. AR-02bs are piloted by seasoned flight aces."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Bomber.cfg:25
+#: The_War_of_Terrador/units/Terrador/Terrador_Bomber.cfg:25
 msgid "Heavy Laser Cannons"
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Terrador_Bomber.cfg:34
+#: The_War_of_Terrador/units/Terrador/Terrador_Bomber.cfg:34
 msgid "P42 Anti-Vehicle Air-to-Ground Missiles"
 msgstr ""
 
 #. [unit_type]: id=Cannon, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Cannon_Turret.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Cannon_Turret.cfg:5
 msgid "OR-98 Cannon Turret"
 msgstr ""
 
 #. [unit_type]: id=Cannon, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Cannon_Turret.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Cannon_Turret.cfg:19
 msgid "Cannon turrets are the most dangerous of the Human's defensive fortifications. Capable of sending laser particles farther and harder than the normal blasters, these turrets blast any infantry that come too close with ease."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Cannon_Turret.cfg:24
-#: The_War_of_Terrador/units/Terrador_Cannon_Turret.cfg:36
+#: The_War_of_Terrador/units/Terrador/Terrador_Cannon_Turret.cfg:24
+#: The_War_of_Terrador/units/Terrador/Terrador_Cannon_Turret.cfg:36
 msgid "Anti-Infantry Laser Cannons"
 msgstr ""
 
 #. [unit_type]: id=Captain, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Captain.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Captain.cfg:5
 msgid "Captain"
 msgstr ""
 
 #. [unit_type]: id=Captain, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Captain.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Captain.cfg:19
 msgid "The captains of the Terrador military have found that the old tactics from Earth-war days are obsolete. Practicing new tactics, they are able to command their fellows well, inspiring and aiding them in combat. All Captains are equipped with a Mk-4 Laser-Rifle, which they use with great accuracy. They have been equipped with the best armor and weapons, and so are more powerful then the common soldier in combat."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Captain.cfg:26
+#: The_War_of_Terrador/units/Terrador/Terrador_Captain.cfg:26
 msgid "Mk-4 Laser Rifle"
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Captain.cfg:35
-#: The_War_of_Terrador/units/Terrador_Commander.cfg:38
+#: The_War_of_Terrador/units/Terrador/Terrador_Captain.cfg:35
+#: The_War_of_Terrador/units/Terrador/Terrador_Commander.cfg:38
 msgid "VibroKnife"
 msgstr ""
 
 #. [unit_type]: id=Commander, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Commander.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Commander.cfg:5
 msgid "Commander"
 msgstr ""
 
 #. [unit_type]: id=Commander, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Commander.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Commander.cfg:19
 msgid "The commanders of the Terrador military have proven themselves to be able leaders and fierce fighters. To reward this effort, they are given better armor and new weapons. While they are good for combat, they prefer to strike quickly, giving their victims no chance to fight back. Most Commanders are currently garrisoned on New Earth."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Commander.cfg:26
-#: The_War_of_Terrador/units/Terrador_Fleet_Commander.cfg:26
+#: The_War_of_Terrador/units/Terrador/Terrador_Commander.cfg:26
+#: The_War_of_Terrador/units/Terrador/Terrador_Fleet_Commander.cfg:26
 msgid "Mk-5 Blaster Rifle"
 msgstr ""
 
 #. [unit_type]: id=Destroyer, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Destroyer.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Destroyer.cfg:5
 msgid "T-09b Destroyer"
 msgstr ""
 
 #. [unit_type]: id=Destroyer, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Destroyer.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Destroyer.cfg:19
 msgid "The T-09b are support units for the Battleships in the Terradorian Fleet. They are faster than their larger counterparts, but have less weapons and armor."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Destroyer.cfg:24
-#: The_War_of_Terrador/units/Terrador_Flagship.cfg:27
+#: The_War_of_Terrador/units/Terrador/Terrador_Destroyer.cfg:24
+#: The_War_of_Terrador/units/Terrador/Terrador_Flagship.cfg:27
 msgid "Heavy Anti-Infantry Laser Cannons"
 msgstr ""
 
 #. [unit_type]: id=Fighter, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Fighter.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Fighter.cfg:5
 msgid "AR-02 Light Fighter"
 msgstr ""
 
 #. [unit_type]: id=Fighter, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Fighter.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Fighter.cfg:19
 msgid "The AR-02 Fighter, or 'Stormwing' as it is named, is a fast-response fighter jet. It can fight enemy fighters and strafe ground targets easily. The Stormwing is a small, one-manned craft used by the bulk of the Terrador military."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Fighter.cfg:24
+#: The_War_of_Terrador/units/Terrador/Terrador_Fighter.cfg:24
 msgid "Light Anti-Infantry Cannons"
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Terrador_Fighter.cfg:33
+#: The_War_of_Terrador/units/Terrador/Terrador_Fighter.cfg:33
 msgid "Light Anti-Vehicle Laser Cannons"
 msgstr ""
 
 #. [unit_type]: id=Flagship, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Flagship.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Flagship.cfg:5
 msgid "T-09 Battleship"
 msgstr ""
 
 #. [unit_type]: id=Flagship, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Flagship.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Flagship.cfg:19
 msgid "The T-09 are the finest ships in the Terrador fleet. They can both take down enemy fighters and destroy ground targets. The T-09 are commander by the best Fleet Commanders, and so give morale to allies units around them."
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Terrador_Flagship.cfg:36
+#: The_War_of_Terrador/units/Terrador/Terrador_Flagship.cfg:36
 msgid "Tactical Nuclear Missiles"
 msgstr ""
 
 #. [attack]: type=fire
 #. [unit_type]: id=Flamethrower, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Flamethrower.cfg:23
-#: The_War_of_Terrador/units/Terrador_Flamethrower.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Flamethrower.cfg:23
+#: The_War_of_Terrador/units/Terrador/Terrador_Flamethrower.cfg:5
 msgid "Flamethrower"
 msgstr ""
 
 #. [unit_type]: id=Flamethrower, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Flamethrower.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Flamethrower.cfg:19
 msgid "Flamethrowers are pyromaniacs at heart, bringing flames and destruction to the battlefield. They fry anything that stands in their way, and thus are rarely seen on anything but battlefields that are in sore need of aid. Because of the highly volatile mixtures in the tanks on their backs, they are weak against most attacks."
 msgstr ""
 
 #. [unit_type]: id=Fleet_Commander, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Fleet_Commander.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Fleet_Commander.cfg:5
 msgid "Fleet Commander"
 msgstr ""
 
 #. [unit_type]: id=Fleet_Commander, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Fleet_Commander.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Fleet_Commander.cfg:19
 msgid "The Fleet Commanders command all of the forces of the Terrador Military. Currently, there are only seven that have made it to this high rank, three of which died in service to Terrador. Too see a Fleet Commander in combat is a frightening thing, as they use their Mk-5 Rifles to the best extent, and their hand-to-hand skills are excellent, thanks to their newly-upgraded armor."
 msgstr ""
 
 #. [unit_type]: id=Grenadier, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Grenadier.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Grenadier.cfg:5
 msgid "Grenadier"
 msgstr ""
 
 #. [unit_type]: id=Grenadier, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Grenadier.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Grenadier.cfg:19
 msgid "Grenadiers love the smell of black powder. While most grenades are useless against modern armor, Grenadiers have designed a type of grenade that explodes with enough force to level a small tank."
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Terrador_Grenadier.cfg:23
-#: The_War_of_Terrador/units/Terrador_Heavy_Weapons_Expert.cfg:35
+#: The_War_of_Terrador/units/Terrador/Terrador_Grenadier.cfg:23
+#: The_War_of_Terrador/units/Terrador/Terrador_Heavy_Weapons_Expert.cfg:35
 msgid "Grenades"
 msgstr ""
 
 #. [unit_type]: id=Heavy_Tank, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Heavy_Tank.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Heavy_Tank.cfg:5
 msgid "VC-79H Hyperion-Class Heavy Tank"
 msgstr ""
 
 #. [unit_type]: id=Heavy_Tank, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Heavy_Tank.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Heavy_Tank.cfg:19
 msgid "The VC79H is one of the most deadly and dangerous vehicles in the Terrador Military. Armed with a devastating M67A Advanced Burst Cannon, the VC-79H is the best heavy vehicle money can buy."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Heavy_Tank.cfg:24
+#: The_War_of_Terrador/units/Terrador/Terrador_Heavy_Tank.cfg:24
 msgid "M67A Advanced Tri-Burst Cannon"
 msgstr ""
 
 #. [unit_type]: id=Heavy_Weapons_Expert, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Heavy_Weapons_Expert.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Heavy_Weapons_Expert.cfg:5
 msgid "Heavy Weapons Specialist"
 msgstr ""
 
 #. [unit_type]: id=Heavy_Weapons_Expert, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Heavy_Weapons_Expert.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Heavy_Weapons_Expert.cfg:19
 msgid "Heavy Weapons Specialists are the perfect anti-tank weapon. They use explosives in combat, but cannot use them in close combat, for obvious reasons."
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Terrador_Heavy_Weapons_Expert.cfg:26
+#: The_War_of_Terrador/units/Terrador/Terrador_Heavy_Weapons_Expert.cfg:26
 msgid "Rocket Launcher"
 msgstr ""
 
 #. [unit_type]: id=Light_Tank, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Light_Tank.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Light_Tank.cfg:5
 msgid "L67 Light Tank"
 msgstr ""
 
 #. [unit_type]: id=Light_Tank, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Light_Tank.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Light_Tank.cfg:19
 msgid "Tanks used by the Terrador military are very slow, but make up for this by having a very powerful weapons system. The L67 Light Tanks are the most simple of the Tank line, but are also very hard to destroy."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Light_Tank.cfg:24
+#: The_War_of_Terrador/units/Terrador/Terrador_Light_Tank.cfg:24
 msgid "M67L Light Cannon"
 msgstr ""
 
 #. [unit_type]: id=Marksman, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Marksman.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Marksman.cfg:5
 msgid "Marksman"
 msgstr ""
 
 #. [unit_type]: id=Marksman, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Marksman.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Marksman.cfg:19
 msgid "The Marksman of the Terrador Army are efficient and deadly. They take their enemy out from afar, and easily pick off enemy infantry. Their only weakness, however, is their lack of a melee attack, and their weak HP. Their rifles have been outfitted with nuclear shells, which poison the enemy with each shot."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Marksman.cfg:23
-#: The_War_of_Terrador/units/Terrador_Sniper.cfg:26
+#: The_War_of_Terrador/units/Terrador/Terrador_Marksman.cfg:23
+#: The_War_of_Terrador/units/Terrador/Terrador_Sniper.cfg:26
 msgid "Mk-6 Sniper Rifle Silencer Attachment"
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Marksman.cfg:36
-#: The_War_of_Terrador/units/Terrador_Sniper.cfg:39
+#: The_War_of_Terrador/units/Terrador/Terrador_Marksman.cfg:36
+#: The_War_of_Terrador/units/Terrador/Terrador_Sniper.cfg:39
 msgid "Mk-6 Sniper Rifle"
 msgstr ""
 
 #. [unit_type]: id=Medic, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Medic.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Medic.cfg:5
 msgid "Medic"
 msgstr ""
 
 #. [unit_type]: id=Medic, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Medic.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Medic.cfg:19
 msgid "In every army and every war, there are injured. Medics aid the injured and help the fatally wounded. They carry only a small Mk-2 Sidearm Pistol, and are lightly armed, so they must be protected in battle."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Medic.cfg:27
-#: The_War_of_Terrador/units/Terrador_Recruit.cfg:23
+#: The_War_of_Terrador/units/Terrador/Terrador_Medic.cfg:27
+#: The_War_of_Terrador/units/Terrador/Terrador_Recruit.cfg:23
 msgid "Mk-2 Sidearm Pistol"
 msgstr ""
 
 #. [attack]: type=fire
 #. [unit_type]: id=Pyro, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Pyro.cfg:23
-#: The_War_of_Terrador/units/Terrador_Pyro.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Pyro.cfg:23
+#: The_War_of_Terrador/units/Terrador/Terrador_Pyro.cfg:5
 msgid "Napalm Flamethrower"
 msgstr ""
 
 #. [unit_type]: id=Pyro, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Pyro.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Pyro.cfg:19
 msgid "Napalm is a highly corrosive liquid fire, and Flamethrowers that use it are considered to be psychotic by their companions. Napalm Flamethrowers are used in high-intensity battle, such as bunker-fighter and taking down swarms of light enemies."
 msgstr ""
 
 #. [unit_type]: id=Recon_Jet, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Recon_Jet.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Recon_Jet.cfg:5
 msgid "PT82 Recon Hoverbike"
 msgstr ""
 
 #. [unit_type]: id=Recon_Jet, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Recon_Jet.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Recon_Jet.cfg:19
 msgid "Vehicles are very resilient, as their armor plating causes them to repel most attacks. The PT82 Recon Hoverbike is fast and useful for scouting. Also, their armor gives them good resistance to all attacks but anti-vehicle weapons."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Recon_Jet.cfg:24
+#: The_War_of_Terrador/units/Terrador/Terrador_Recon_Jet.cfg:24
 msgid "Light Anti-Infantry Laser"
 msgstr ""
 
 #. [unit_type]: id=Recruit, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Recruit.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Recruit.cfg:5
 msgid "Recruit"
 msgstr ""
 
 #. [unit_type]: id=Recruit, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Recruit.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Recruit.cfg:19
 msgid "Recruits are the rookies in the Terrador military. While they do have their uses, (mostly by way of massing a foe to death) they mostly are too weak to be of much help in a combat situation."
 msgstr ""
 
 #. [unit_type]: id=Repair_Sat, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Repair_Sat.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Repair_Sat.cfg:5
 msgid "Repair Satellite"
 msgstr ""
 
 #. [unit_type]: id=Repair_Sat, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Repair_Sat.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Repair_Sat.cfg:19
 msgid "Repair Satellites are man-made ships that follow and repair allied ships and armor. They are useful in battle for their advanced healing ability and their ability to regenerate themselves after an injury is sustained."
 msgstr ""
 
 #. [attack]: type=impact
-#: The_War_of_Terrador/units/Terrador_Repair_Sat.cfg:29
+#: The_War_of_Terrador/units/Terrador/Terrador_Repair_Sat.cfg:29
 msgid "Bash"
 msgstr ""
 
 #. [unit_type]: id=Rocket, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Rocket_Turret.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Rocket_Turret.cfg:5
 msgid "OR-98r Rocket Turret"
 msgstr ""
 
 #. [unit_type]: id=Rocket, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Rocket_Turret.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Rocket_Turret.cfg:19
 msgid "Rocket Turrets are deployed where enemy tanks are common. These turrets are dangerous and deadly. While rooted to the spot, they are excellent when paired up with cannon turrets, forming an almost impenetrable line of defense."
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Terrador_Rocket_Turret.cfg:24
-#: The_War_of_Terrador/units/Terrador_Rocket_Turret.cfg:36
+#: The_War_of_Terrador/units/Terrador/Terrador_Rocket_Turret.cfg:24
+#: The_War_of_Terrador/units/Terrador/Terrador_Rocket_Turret.cfg:36
 msgid "Tankbuster Missiles"
 msgstr ""
 
 #. [unit_type]: id=Shotgunner, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Shotgunner.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Shotgunner.cfg:5
 msgid "Shotgunner"
 msgstr ""
 
 #. [unit_type]: id=Shotgunner, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Shotgunner.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Shotgunner.cfg:19
 msgid "Some men are made for greatness, some are trained to greatness. Shotgunners can decimate enemies with their powerful shotgun, which has hardly changed since the original concept was thought up a millenia ago. Shotgunners are used to take down hordes of advancing foes."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Shotgunner.cfg:22
+#: The_War_of_Terrador/units/Terrador/Terrador_Shotgunner.cfg:22
 msgid "Shotgun"
 msgstr ""
 
 #. [unit_type]: id=Sniper, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Sniper.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Sniper.cfg:5
 msgid "Sniper"
 msgstr ""
 
 #. [unit_type]: id=Sniper, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Sniper.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Sniper.cfg:19
 msgid "Snipers are the best marksmen in the Terradorian military. Fast and efficient, they also have learned the use of camouflage at night, making them a deadly enemy to face."
 msgstr ""
 
 #. [unit_type]: id=Soldier, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Soldier.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Soldier.cfg:19
 msgid "The soldiers of the Terrador army are plentiful, brave, and obedient. They are armed with main-line weapons that, while efficient, are nowhere near as advanced as that used by Captains and their superiors. Soldiers are the backbone of every army, and Terrador soldiers are the finest soldiers on New Earth."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Soldier.cfg:23
-#: The_War_of_Terrador/units/Terrador_Veteran_Soldier.cfg:26
+#: The_War_of_Terrador/units/Terrador/Terrador_Soldier.cfg:23
+#: The_War_of_Terrador/units/Terrador/Terrador_Veteran_Soldier.cfg:26
 msgid "Mk-2 Laser Rifle"
 msgstr ""
 
 #. [attack]: type=blade
-#: The_War_of_Terrador/units/Terrador_Soldier.cfg:32
-#: The_War_of_Terrador/units/Terrador_Veteran_Soldier.cfg:35
+#: The_War_of_Terrador/units/Terrador/Terrador_Soldier.cfg:32
+#: The_War_of_Terrador/units/Terrador/Terrador_Veteran_Soldier.cfg:35
 msgid "Combat Knife"
 msgstr ""
 
 #. [unit_type]: id=SpecOps, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_SpecOps.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_SpecOps.cfg:5
 msgid "SpecOps"
 msgstr ""
 
 #. [unit_type]: id=SpecOps, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_SpecOps.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_SpecOps.cfg:19
 msgid "Special Operations Soldiers are called in to reinforce positions of Soldiers that are under heavy fire. SpecOps are fast, silent, and deadly, appearing out of nowhere in the dead of night and eliminating foes of Terrador. Their stealth allows them to hide in villages, and thus disappear within the people."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_SpecOps.cfg:26
+#: The_War_of_Terrador/units/Terrador/Terrador_SpecOps.cfg:26
 msgid "Special Forces Rifle"
 msgstr ""
 
 #. [attack]: type=blade
-#: The_War_of_Terrador/units/Terrador_SpecOps.cfg:38
-#: The_War_of_Terrador/units/Terrador_SpecOps_Elite.cfg:38
-#: The_War_of_Terrador/units/Terrador_SpecOps_Lieutenant.cfg:38
+#: The_War_of_Terrador/units/Terrador/Terrador_SpecOps.cfg:38
+#: The_War_of_Terrador/units/Terrador/Terrador_SpecOps_Elite.cfg:38
+#: The_War_of_Terrador/units/Terrador/Terrador_SpecOps_Lieutenant.cfg:38
 msgid "Special Forces Energy Blade"
 msgstr ""
 
 #. [unit_type]: id=SpecOps_Elite, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_SpecOps_Elite.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_SpecOps_Elite.cfg:5
 msgid "SpecOps Elite"
 msgstr ""
 
 #. [unit_type]: id=SpecOps_Elite, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_SpecOps_Elite.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_SpecOps_Elite.cfg:19
 msgid "While the SpecOps are powerful, those who have honed their skills are to be feared. Appearing anywhere and yet are nowhere, they are dispatched when no other units can aid the Terrador forces. They can easily hide within villages, as they blend with the crowd."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_SpecOps_Elite.cfg:26
+#: The_War_of_Terrador/units/Terrador/Terrador_SpecOps_Elite.cfg:26
 msgid "Special Forces Rifle Mk-2"
 msgstr ""
 
 #. [unit_type]: id=SpecOps_Lieutenant, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_SpecOps_Lieutenant.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_SpecOps_Lieutenant.cfg:5
 msgid "SpecOps Lieutenant"
 msgstr ""
 
 #. [unit_type]: id=SpecOps_Lieutenant, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_SpecOps_Lieutenant.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_SpecOps_Lieutenant.cfg:19
 msgid "SpecOps Lieutenants are the bast of the very best, able to make themselves invisible with their top-of-the-lone personal cloaking device. This makes them a very dangerous opponent on the battlefield, for their combat skills are the stuff of legend amongst both the Zederians and the Terradorians."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_SpecOps_Lieutenant.cfg:26
+#: The_War_of_Terrador/units/Terrador/Terrador_SpecOps_Lieutenant.cfg:26
 msgid "Special Forces Rifle Mk-3"
 msgstr ""
 
 #. [unit_type]: id=Tank, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Tank.cfg:5
+#: The_War_of_Terrador/units/Terrador/Terrador_Tank.cfg:5
 msgid "VC-79 Tank"
 msgstr ""
 
 #. [unit_type]: id=Tank, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Tank.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Tank.cfg:19
 msgid "Tanks are difficult to defeat by most conventional methods, and the VC-79 is no exception. This tank is slow, but its sheer power more than makes up for this fact. It is deadly on the battlefield, where it fires its M67 Burst Cannon into the fray."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Terrador_Tank.cfg:24
+#: The_War_of_Terrador/units/Terrador/Terrador_Tank.cfg:24
 msgid "M67A Advanced Burst Cannon"
 msgstr ""
 
 #. [unit_type]: id=Veteran_Soldier, race=new_earth_human
-#: The_War_of_Terrador/units/Terrador_Veteran_Soldier.cfg:19
+#: The_War_of_Terrador/units/Terrador/Terrador_Veteran_Soldier.cfg:19
 msgid "Veteran Soldiers are men who have seen the field of battle and lived to tell the tale. Their combat prowess is greater, and they have learned to use their weapons with greater power. Veterans have learned for their own mistakes, and as such, have learned to use cover well."
 msgstr ""
 
 #. [unit_type]: id=Antitank, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Antitank.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Antitank.cfg:5
 msgid "Anti Tank"
 msgstr ""
 
 #. [unit_type]: id=Antitank, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Antitank.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Antitank.cfg:19
 msgid "The Xylash found that their forces easily fell to aircraft and tanks. However, they soon bred a unit that is capable of withstanding such attacks: The Antitank."
 msgstr ""
 
 #. [attack]: type=fire
 #. [attack]: type=blade
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Xylash_Antitank.cfg:24
-#: The_War_of_Terrador/units/Xylash_Eliminator.cfg:24
-#: The_War_of_Terrador/units/Xylash_Fighter.cfg:24
-#: The_War_of_Terrador/units/Xylash_Swarmer.cfg:24
-#: The_War_of_Terrador/units/Xylash_Tankeater.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Antitank.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Eliminator.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Fighter.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Swarmer.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Tankeater.cfg:24
 msgid "Biolaser"
 msgstr ""
 
 #. [unit_type]: id=Behemoth, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Behemoth.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Behemoth.cfg:5
 msgid "Behemoth"
 msgstr ""
 
 #. [unit_type]: id=Behemoth, race=Xylash
 #. [unit_type]: id=Brute, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Behemoth.cfg:19
-#: The_War_of_Terrador/units/Xylash_Brute.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Behemoth.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Brute.cfg:19
 msgid "Xylash have created a strain of mutants that are resistant to most damages, and as such are used in battle as living tanks. These monsters are gigantic and evil, but their strain has little in the line of improvements, meaning that they evolve slowly and also have only a few changes that can be made."
 msgstr ""
 
 #. [attack]: type=blade
-#: The_War_of_Terrador/units/Xylash_Behemoth.cfg:24
-#: The_War_of_Terrador/units/Xylash_Brute.cfg:24
-#: The_War_of_Terrador/units/Xylash_Drone.cfg:24
-#: The_War_of_Terrador/units/Xylash_Grub.cfg:24
-#: The_War_of_Terrador/units/Xylash_Hivelord.cfg:24
-#: The_War_of_Terrador/units/Xylash_Infected.cfg:29
-#: The_War_of_Terrador/units/Xylash_Infector.cfg:24
-#: The_War_of_Terrador/units/Xylash_Omega.cfg:24
-#: The_War_of_Terrador/units/Xylash_Quickbred.cfg:24
-#: The_War_of_Terrador/units/Xylash_Scout.cfg:24
-#: The_War_of_Terrador/units/Xylash_Sporehealer.cfg:27
-#: The_War_of_Terrador/units/Xylash_Sporesealer.cfg:28
-#: The_War_of_Terrador/units/Zederian_Toxin_Mutant.cfg:23
+#: The_War_of_Terrador/units/Xylash/Xylash_Behemoth.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Brute.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Drone.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Grub.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Hivelord.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Infected.cfg:29
+#: The_War_of_Terrador/units/Xylash/Xylash_Infector.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Omega.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Quickbred.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Scout.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Sporehealer.cfg:27
+#: The_War_of_Terrador/units/Xylash/Xylash_Sporesealer.cfg:28
+#: The_War_of_Terrador/units/Zederian/Zederian_Toxin_Mutant.cfg:23
 msgid "Claws"
 msgstr ""
 
 #. [unit_type]: id=Brute, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Brute.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Brute.cfg:5
 msgid "Brute"
 msgstr ""
 
 #. [unit_type]: id=Consumer, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Consumer.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Consumer.cfg:5
 msgid "Consumer"
 msgstr ""
 
 #. [unit_type]: id=Consumer, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Consumer.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Consumer.cfg:19
 msgid "Consumers have a highly acidic poison in their spit which kills a foe by poisoning their nervous sytam, slowly eating their insides from the inside out."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Xylash_Consumer.cfg:24
-#: The_War_of_Terrador/units/Xylash_Devourer.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Consumer.cfg:24
+#: The_War_of_Terrador/units/Xylash/Xylash_Devourer.cfg:24
 msgid "Acid"
 msgstr ""
 
 #. [unit_type]: id=Devourer, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Devourer.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Devourer.cfg:5
 msgid "Devourer"
 msgstr ""
 
 #. [unit_type]: id=Devourer, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Devourer.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Devourer.cfg:19
 msgid "Devourers are a powerful and dangerous form of the Xylash. Their poison can eat through metal, and can easily take out a small tank."
 msgstr ""
 
 #. [unit_type]: id=Drone, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Drone.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Drone.cfg:5
 msgid "Drone"
 msgstr ""
 
 #. [unit_type]: id=Drone, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Drone.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Drone.cfg:19
 msgid "The Xylash Drone is the messenger of the Xylash. They speed in the hives to deliver messages from the Overlord to his lackeys. For this reason, they mostly use speed rather than power, and a such are weak in combat."
 msgstr ""
 
 #. [unit_type]: id=Eliminator, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Eliminator.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Eliminator.cfg:5
 msgid "Eliminator"
 msgstr ""
 
 #. [unit_type]: id=Eliminator, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Eliminator.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Eliminator.cfg:19
 msgid "Eliminators are the pinnacle of the Xylash breeding tech. This allows them to consume and absorb enemy tank parts and make themselves stronger. To see one of these on the battlefield is truly horror."
 msgstr ""
 
 #. [unit_type]: id=Xfighter, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Fighter.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Fighter.cfg:19
 msgid "While not as powerful as the Human or Zederian versions of the fighter, the Xylash Fighters still are dangerous in combat due to their biolasers."
 msgstr ""
 
 #. [unit_type]: id=Xylash_Grub, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Grub.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Grub.cfg:19
 msgid "Xylash grubs are created by infecting humanoid peoples and using them to feed off of. Thia makes Grubs hungry for blood, and as such are dangerous in combat, for they never cease their attacks."
 msgstr ""
 
 #. [unit_type]: id=Xylash_Hivelord, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Hivelord.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Hivelord.cfg:19
 msgid "Hivelords are the leaders of the Xylash aliens. These lumbering behemoths enjoy causing pain and suffering, and love to spawn more of their fellows from a dead enemy's flesh. Definitely not a people person."
 msgstr ""
 
 #. [unit_type]: id=Infected, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Infected.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Infected.cfg:5
 msgid "Infected"
 msgstr ""
 
 #. [unit_type]: id=Infected, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Infected.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Infected.cfg:19
 msgid "Whoever is unlucky enough to get killed by an Xylash is transformed into a host for the grubs inside the toxins produced by the Xylash. As such, a person that has been infected will not live for more than a few days, for when the grubs grow to maturity, they hatch, killing the host."
 msgstr ""
 
 #. [unit_type]: id=Infector, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Infector.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Infector.cfg:5
 msgid "Infector"
 msgstr ""
 
 #. [unit_type]: id=Infector, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Infector.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Infector.cfg:19
 msgid "The Infector is a fast, lightly-armored super-scout, which can do more damage than their predecessors, and also have VERY fast movement."
 msgstr ""
 
 #. [unit_type]: id=Omega, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Omega.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Omega.cfg:5
 msgid "Omega Overlord"
 msgstr ""
 
 #. [unit_type]: id=Omega, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Omega.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Omega.cfg:19
 msgid "The Omega is a symbol of fear in Zederian legends and myths. The Omega is said to have enslaved and controlled the Zederians for an eon in ages past. The Omega has not been seen in a millenia, but tales are told of a blood-red Xylash, smart as any Zederian, moving through the ranks..."
 msgstr ""
 
 #. [unit_type]: id=Quickbred, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Quickbred.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Quickbred.cfg:5
 msgid "Quickbred"
 msgstr ""
 
 #. [unit_type]: id=Quickbred, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Quickbred.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Quickbred.cfg:19
 msgid "The Xylash are a species dedicated to the infection and assimilation of all humanoid species in the Terradorian Galaxy. These Xylash are bred Quickly from the corpses of their fallen foes, and hance the name Quickbred."
 msgstr ""
 
 #. [unit_type]: id=Scout, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Scout.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Scout.cfg:5
 msgid "Scout"
 msgstr ""
 
 #. [unit_type]: id=Scout, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Scout.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Scout.cfg:19
 msgid "The Xylash scout is fast and has little armor. It is designed for speed, and that is what is important."
 msgstr ""
 
 #. [unit_type]: id=Spore, race=Xylash
 #. [heals]: id=spore
-#: The_War_of_Terrador/units/Xylash_Spore.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Spore.cfg:5
 #: The_War_of_Terrador/utils/abilities.cfg:173
 msgid "Spore"
 msgstr ""
 
 #. [unit_type]: id=Spore, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Spore.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Spore.cfg:19
 msgid "Xylash reproduce by toxic spores, which infect and mutate anyone who touches them."
 msgstr ""
 
 #. [attack]: type=blade
 #. [plague]: id=infect, type=Infected
-#: The_War_of_Terrador/units/Xylash_Spore.cfg:27
+#: The_War_of_Terrador/units/Xylash/Xylash_Spore.cfg:27
 #: The_War_of_Terrador/utils/abilities.cfg:183
 msgid "Infect"
 msgstr ""
 
 #. [unit_type]: id=Sporehealer, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Sporehealer.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Sporehealer.cfg:5
 msgid "Sporehealer"
 msgstr ""
 
 #. [unit_type]: id=Sporehealer, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Sporehealer.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Sporehealer.cfg:19
 msgid "Sporehealers are advanced versions of the Sporesealer, and they heal more health and aid more in battle."
 msgstr ""
 
 #. [unit_type]: id=Sporesealer, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Sporesealer.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Sporesealer.cfg:5
 msgid "Sporesealer"
 msgstr ""
 
 #. [unit_type]: id=Sporesealer, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Sporesealer.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Sporesealer.cfg:19
 msgid "After a century of their spawn dying from toxins and such, the Xylash bred a new type of themselves; the sporesealer. They aid the wounded and sick Xylash by biting them and pouring raw spores into their body."
 msgstr ""
 
 #. [unit_type]: id=Swarmer, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Swarmer.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Swarmer.cfg:5
 msgid "Swarmer"
 msgstr ""
 
 #. [unit_type]: id=Swarmer, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Swarmer.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Swarmer.cfg:19
 msgid "The Xylash Swarmer is an advanced version of the Xylash Fighter. While not as powerful as the Human or Zederian versions of the fighter, they still are dangerous in combat."
 msgstr ""
 
 #. [unit_type]: id=Tankeater, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Tankeater.cfg:5
+#: The_War_of_Terrador/units/Xylash/Xylash_Tankeater.cfg:5
 msgid "Tankeater"
 msgstr ""
 
 #. [unit_type]: id=Tankeater, race=Xylash
-#: The_War_of_Terrador/units/Xylash_Tankeater.cfg:19
+#: The_War_of_Terrador/units/Xylash/Xylash_Tankeater.cfg:19
 msgid "The Xylash Tankeaters have evolved to take down and eliminate tanks. These monsters have stomachs that can absorb and consume enemy tank metals and use it to heal themselves."
 msgstr ""
 
 #. [unit_type]: id=Anti_Tank_Warrior, race=zederian
-#: The_War_of_Terrador/units/Zederian_Anti_Tank_Warrior.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Anti_Tank_Warrior.cfg:5
 msgid "Anti-Tank Warrior"
 msgstr ""
 
 #. [unit_type]: id=Anti_Tank_Warrior, race=zederian
-#: The_War_of_Terrador/units/Zederian_Anti_Tank_Warrior.cfg:20
+#: The_War_of_Terrador/units/Zederian/Zederian_Anti_Tank_Warrior.cfg:20
 msgid "Zederian Anti Tank Warriors have been modified with biomechanical upgrades so they can easily track and destroy enemy vehicles. While their Anti-Tank Lasers are less powerful than Terrador's Rockets, their incredible accuracy makes them dangerous, indeed."
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Zederian_Anti_Tank_Warrior.cfg:24
+#: The_War_of_Terrador/units/Zederian/Zederian_Anti_Tank_Warrior.cfg:24
 msgid "Anti-Tank Laser"
 msgstr ""
 
 #. [unit_type]: id=Black_Widow_Tank, race=zederian
-#: The_War_of_Terrador/units/Zederian_Black_Widow_Tank.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Black_Widow_Tank.cfg:5
 msgid "Black Widow-Class Heavy Tank"
 msgstr ""
 
 #. [unit_type]: id=Black_Widow_Tank, race=zederian
-#: The_War_of_Terrador/units/Zederian_Black_Widow_Tank.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Black_Widow_Tank.cfg:19
 msgid "Black Widow Tanks are the most feared weapon in the Zederian arsenal, not for its strength, but for its stealth. The Black Widow can transform into any civilian vehicle, allowing it to blend in with civilians in towns and cities."
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Zederian_Black_Widow_Tank.cfg:32
+#: The_War_of_Terrador/units/Zederian/Zederian_Black_Widow_Tank.cfg:32
 msgid "Triple Rockets"
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Black_Widow_Tank.cfg:41
+#: The_War_of_Terrador/units/Zederian/Zederian_Black_Widow_Tank.cfg:41
 msgid "Twin Superlasers"
 msgstr ""
 
 #. [unit_type]: id=Claw, race=zederian
-#: The_War_of_Terrador/units/Zederian_Claw.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Claw.cfg:5
 msgid "Claw"
 msgstr ""
 
 #. [unit_type]: id=Claw, race=zederian
-#: The_War_of_Terrador/units/Zederian_Claw.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Claw.cfg:19
 msgid "The Claw is a Zederian Anti-Infantry ship, useful for striking down enemy troops on the battlefield. While weak and lighty armored, Claws are powerful with their ability to poison enemy troops with the toxins on their claws."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Claw.cfg:24
+#: The_War_of_Terrador/units/Zederian/Zederian_Claw.cfg:24
 msgid "Twin Claws"
 msgstr ""
 
 #. [unit_type]: id=Council_Head, race=zederian
-#: The_War_of_Terrador/units/Zederian_Council_Head.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Council_Head.cfg:5
 msgid "High Councilor"
 msgstr ""
 
 #. [unit_type]: id=Council_Head, race=zederian
-#: The_War_of_Terrador/units/Zederian_Council_Head.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Council_Head.cfg:19
 msgid "The Heads of the Zederian Council are mysterious and secluded. The Council Heads only appear in combat when their skills are needed, and even then prefer to stay in the shadows, directing from the depths of their army. To see a Council Head on the battlefield is rare, but they are still dangerous, as they have armor on their hovercraft that protects them against the most dangerous of attacks."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Council_Head.cfg:26
+#: The_War_of_Terrador/units/Zederian/Zederian_Council_Head.cfg:26
 msgid "Particle Beam Pistol"
 msgstr ""
 
 #. [unit_type]: id=Council_Member, race=zederian
-#: The_War_of_Terrador/units/Zederian_Council_Member.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Council_Member.cfg:5
 msgid "Councilor"
 msgstr ""
 
 #. [unit_type]: id=Council_Member, race=zederian
-#: The_War_of_Terrador/units/Zederian_Council_Member.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Council_Member.cfg:19
 msgid "Members of the Zederian Council rarely come to combat, but when they so, they rally the Zederian forces and cause them to fight harder and swifter. However, as the Council member has good armor but hardly any combat strength, he must be protected, or else he will perish. Council Members ride in a heavily armored hovercraft."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Council_Member.cfg:26
+#: The_War_of_Terrador/units/Zederian/Zederian_Council_Member.cfg:26
 msgid "Photon Pistol"
 msgstr ""
 
 #. [unit_type]: id=Cruiser, race=zederian
-#: The_War_of_Terrador/units/Zederian_Cruiser.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Cruiser.cfg:5
 msgid "Cruiser"
 msgstr ""
 
 #. [unit_type]: id=Cruiser, race=zederian
-#: The_War_of_Terrador/units/Zederian_Cruiser.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Cruiser.cfg:19
 msgid "Zederian Cruisers are slightly different than their Terradorian counterparts. Where the Terrador T09 Ship of the Line is build for power, The Zederian Cruiser is built for speed. This enables the Cruiser to quickly reach distant battles, using its incredible power to aid fellow Zederian forces."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Cruiser.cfg:24
+#: The_War_of_Terrador/units/Zederian/Zederian_Cruiser.cfg:24
 msgid "Burst Lasers"
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Zederian_Cruiser.cfg:33
+#: The_War_of_Terrador/units/Zederian/Zederian_Cruiser.cfg:33
 msgid "Advanced Photon Missiles"
 msgstr ""
 
 #. [unit_type]: id=Cyborg_Soldier, race=zederian
-#: The_War_of_Terrador/units/Zederian_Cyborg_Soldier.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Cyborg_Soldier.cfg:5
 msgid "Cyborg Soldier"
 msgstr ""
 
 #. [unit_type]: id=Cyborg_Soldier, race=zederian
-#: The_War_of_Terrador/units/Zederian_Cyborg_Soldier.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Cyborg_Soldier.cfg:19
 msgid "While Terrador has the most powerful vehicles and aircraft, the Zederians have come up with a way to defeat them with ease: the Cyborg soldier. Taking a normal Zederian and transforming him into a half-machine soldier, they have created a warrior that can tear apart a tank with its bare hands."
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Zederian_Cyborg_Soldier.cfg:27
+#: The_War_of_Terrador/units/Zederian/Zederian_Cyborg_Soldier.cfg:27
 msgid "Wrist Lasers"
 msgstr ""
 
 #. [attack]: type=impact
-#: The_War_of_Terrador/units/Zederian_Cyborg_Soldier.cfg:39
-#: The_War_of_Terrador/units/Zederian_Warrior_1st_Class.cfg:32
-#: The_War_of_Terrador/units/Zederian_Warrior_2nd_Class.cfg:32
+#: The_War_of_Terrador/units/Zederian/Zederian_Cyborg_Soldier.cfg:39
+#: The_War_of_Terrador/units/Zederian/Zederian_Warrior_1st_Class.cfg:32
+#: The_War_of_Terrador/units/Zederian/Zederian_Warrior_2nd_Class.cfg:32
 msgid "Energy Mace"
 msgstr ""
 
 #. [unit_type]: id=Elite_Warrior, race=zederian
-#: The_War_of_Terrador/units/Zederian_Elite.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Elite.cfg:5
 msgid "Elite Warrior"
 msgstr ""
 
 #. [unit_type]: id=Elite_Warrior, race=zederian
-#: The_War_of_Terrador/units/Zederian_Elite.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Elite.cfg:19
 msgid "The Elite Warriors of the Zederian army are the protectors of the Ruling Council, distinguished by their bright blue armor. Elite Warriors have slain at least two dozen Terrador forces, and for this, they are respected and feared by even those they protect."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Elite.cfg:23
+#: The_War_of_Terrador/units/Zederian/Zederian_Elite.cfg:23
 msgid "Nuclear Photon Rifle"
 msgstr ""
 
 #. [unit_type]: id=Frigate, race=zederian
-#: The_War_of_Terrador/units/Zederian_Frigate.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Frigate.cfg:5
 msgid "Frigate"
 msgstr ""
 
 #. [unit_type]: id=Frigate, race=zederian
-#: The_War_of_Terrador/units/Zederian_Frigate.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Frigate.cfg:19
 msgid "Frigates are the support for the main Cruisers of the Zederian Fleet. They serve as light flagships, and as a result have less armor than the Cruiser, but also more speed and damage."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Frigate.cfg:24
-#: The_War_of_Terrador/units/Zederian_Hornet_Bomber.cfg:24
-#: The_War_of_Terrador/units/Zederian_Raven.cfg:24
-#: The_War_of_Terrador/units/Zederian_Wasp_Fighter.cfg:24
-#: The_War_of_Terrador/units/Zederian_Watcher.cfg:27
+#: The_War_of_Terrador/units/Zederian/Zederian_Frigate.cfg:24
+#: The_War_of_Terrador/units/Zederian/Zederian_Hornet_Bomber.cfg:24
+#: The_War_of_Terrador/units/Zederian/Zederian_Raven.cfg:24
+#: The_War_of_Terrador/units/Zederian/Zederian_Wasp_Fighter.cfg:24
+#: The_War_of_Terrador/units/Zederian/Zederian_Watcher.cfg:27
 msgid "Twin Lasers"
 msgstr ""
 
 #. [unit_type]: id=Gas_Warrior, race=zederian
-#: The_War_of_Terrador/units/Zederian_Gas_Warrior.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Gas_Warrior.cfg:5
 msgid "Gas Warrior"
 msgstr ""
 
 #. [unit_type]: id=Gas_Warrior, race=zederian
-#: The_War_of_Terrador/units/Zederian_Gas_Warrior.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Gas_Warrior.cfg:19
 msgid "Some Zederian Warriors grown to develop a mind for torture and glee for the color of Terradorian soldiers when exposed to toxins. They use these toxins in battle, stored within grenades ready at a moment's notice."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Gas_Warrior.cfg:23
-#: The_War_of_Terrador/units/Zederian_Methane_Sucker.cfg:23
+#: The_War_of_Terrador/units/Zederian/Zederian_Gas_Warrior.cfg:23
+#: The_War_of_Terrador/units/Zederian/Zederian_Methane_Sucker.cfg:23
 msgid "Gas Grenade"
 msgstr ""
 
 #. [unit_type]: id=Hornet, race=zederian
-#: The_War_of_Terrador/units/Zederian_Hornet_Bomber.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Hornet_Bomber.cfg:5
 msgid "Hornet"
 msgstr ""
 
 #. [unit_type]: id=Hornet, race=zederian
-#: The_War_of_Terrador/units/Zederian_Hornet_Bomber.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Hornet_Bomber.cfg:19
 msgid "Hornets are more powerful than their counterparts, the Terradorian AR02b Bomber, against ground targets, but bombers, as a result, are very weak against enemy fighters. Hornets also house a larger payload of missiles, and so are extremely weak against explosive attacks."
 msgstr ""
 
 #. [attack]: type=fire
-#: The_War_of_Terrador/units/Zederian_Hornet_Bomber.cfg:33
+#: The_War_of_Terrador/units/Zederian/Zederian_Hornet_Bomber.cfg:33
 msgid "Photon Missiles"
 msgstr ""
 
 #. [unit_type]: id=Medium_Tank, race=zederian
-#: The_War_of_Terrador/units/Zederian_Medium_Tank.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Medium_Tank.cfg:5
 msgid "Eagle-Class Medium Tank"
 msgstr ""
 
 #. [unit_type]: id=Medium_Tank, race=zederian
-#: The_War_of_Terrador/units/Zederian_Medium_Tank.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Medium_Tank.cfg:19
 msgid "Eagle-Class Tanks are the workhorse of the Zederian military. Sleek and fast, these tanks are used to support friendlies in large combat situations."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Medium_Tank.cfg:24
+#: The_War_of_Terrador/units/Zederian/Zederian_Medium_Tank.cfg:24
 msgid "Advanced Photon Cannon"
 msgstr ""
 
 #. [unit_type]: id=Methane_Sucker, race=zederian
-#: The_War_of_Terrador/units/Zederian_Methane_Sucker.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Methane_Sucker.cfg:5
 msgid "Methane Sucker"
 msgstr ""
 
 #. [unit_type]: id=Methane_Sucker, race=zederian
-#: The_War_of_Terrador/units/Zederian_Methane_Sucker.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Methane_Sucker.cfg:19
 msgid "Gas Warriors that have been around the toxins in their grenades too long begin to mutate and change. While this is not apparent for the first few stages of the mutation, it is still frightening for their victims, as they hear no sound from their killers as they step over their poisoned bodies."
 msgstr ""
 
 #. [unit_type]: id=QRV, race=zederian
-#: The_War_of_Terrador/units/Zederian_QRV.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_QRV.cfg:5
 msgid "Quick Response Vehicle"
 msgstr ""
 
 #. [unit_type]: id=QRV, race=zederian
-#: The_War_of_Terrador/units/Zederian_QRV.cfg:20
+#: The_War_of_Terrador/units/Zederian/Zederian_QRV.cfg:20
 msgid "QRVs are the units sent out to aid and suport retreating troops. These vehicles are built for speed, in order to provide quick relief for injured soldiers."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_QRV.cfg:25
+#: The_War_of_Terrador/units/Zederian/Zederian_QRV.cfg:25
 msgid "Beam Laser"
 msgstr ""
 
 #. [unit_type]: id=Raven, race=zederian
-#: The_War_of_Terrador/units/Zederian_Raven.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Raven.cfg:5
 msgid "Raven"
 msgstr ""
 
 #. [unit_type]: id=Raven, race=zederian
-#: The_War_of_Terrador/units/Zederian_Raven.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Raven.cfg:19
 msgid "Zederian Ravens are more advanced than their Wasp brethren, and are used much like Wasps, as well. They have larger cannons, which do more damage to infantry. Ravens are batter armored, and as such, can take more punishment than a Hornet."
 msgstr ""
 
 #. [unit_type]: id=Recon_Tank, race=zederian
-#: The_War_of_Terrador/units/Zederian_Recon_Tank.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Recon_Tank.cfg:5
 msgid "Hawk-Class Reconissance Tank"
 msgstr ""
 
 #. [unit_type]: id=Recon_Tank, race=zederian
-#: The_War_of_Terrador/units/Zederian_Recon_Tank.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Recon_Tank.cfg:19
 msgid "Hawk-Class Tanks are the backbone of the Zederian army. They are used as all-purpose vehicles, rather than just Recon units, as the name suggests. They are equipped with a single Light Photon Cannon, and their armor is weaker than the average Terrador tank."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Recon_Tank.cfg:24
+#: The_War_of_Terrador/units/Zederian/Zederian_Recon_Tank.cfg:24
 msgid "Light Photon Cannon"
 msgstr ""
 
 #. [unit_type]: id=Toxin_Mutant, race=zederian
-#: The_War_of_Terrador/units/Zederian_Toxin_Mutant.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Toxin_Mutant.cfg:5
 msgid "Toxin Mutant"
 msgstr ""
 
 #. [unit_type]: id=Toxin_Mutant, race=zederian
-#: The_War_of_Terrador/units/Zederian_Toxin_Mutant.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Toxin_Mutant.cfg:19
 msgid "Toxin Mutants are those few who have been so corrupted with the toxins they use that they have become beasts themselves. They must be kept chained and guarded at all times when not on the battlefield, lest their toxins infect the rest of the Zederians."
 msgstr ""
 
 #. [unit_type]: id=Warrior_1st_Class, race=zederian
-#: The_War_of_Terrador/units/Zederian_Warrior_1st_Class.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Warrior_1st_Class.cfg:5
 msgid "Warrior 1st Class"
 msgstr ""
 
 #. [unit_type]: id=Warrior_1st_Class, race=zederian
-#: The_War_of_Terrador/units/Zederian_Warrior_1st_Class.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Warrior_1st_Class.cfg:19
 msgid "1st Class Warriors have slayed a dozen Terrador forces in combat, which earn them the respect and fear of their allies. Some 1st Class Warriors become so enraged in the midst of battle they tear apart friends and foes alike."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Warrior_1st_Class.cfg:23
+#: The_War_of_Terrador/units/Zederian/Zederian_Warrior_1st_Class.cfg:23
 msgid "Advanced Photon Bolt Rifle"
 msgstr ""
 
 #. [unit_type]: id=Warrior_2nd_Class, race=zederian
-#: The_War_of_Terrador/units/Zederian_Warrior_2nd_Class.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Warrior_2nd_Class.cfg:5
 msgid "Warrior 2nd Class"
 msgstr ""
 
 #. [unit_type]: id=Warrior_2nd_Class, race=zederian
-#: The_War_of_Terrador/units/Zederian_Warrior_2nd_Class.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Warrior_2nd_Class.cfg:19
 msgid "Warriors in the Zederian army that have killed at least 3 enemies in combat are promoted to 2nd class and given rare technology to aid them as they cut through Terradorian forces. The weapons they receive are unknown tech to the Terrador military, but are very powerful, nonetheless."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Warrior_2nd_Class.cfg:23
+#: The_War_of_Terrador/units/Zederian/Zederian_Warrior_2nd_Class.cfg:23
 msgid "Photon Bolt Rifle"
 msgstr ""
 
 #. [unit_type]: id=Warrior_3rd_Class, race=zederian
-#: The_War_of_Terrador/units/Zederian_Warrior_3rd_Class.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Warrior_3rd_Class.cfg:5
 msgid "Warrior 3rd Class"
 msgstr ""
 
 #. [unit_type]: id=Warrior_3rd_Class, race=zederian
-#: The_War_of_Terrador/units/Zederian_Warrior_3rd_Class.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Warrior_3rd_Class.cfg:19
 msgid "The warriors in the Zederian army are hardly of age, and used as nothing but cannon fodder. Weak compared to their brethren in battle, they must rely upon massed forces even more than the Terrador Recruits."
 msgstr ""
 
 #. [attack]: type=pierce
-#: The_War_of_Terrador/units/Zederian_Warrior_3rd_Class.cfg:23
+#: The_War_of_Terrador/units/Zederian/Zederian_Warrior_3rd_Class.cfg:23
 msgid "Laser Bolt Rifle"
 msgstr ""
 
 #. [attack]: type=blade
-#: The_War_of_Terrador/units/Zederian_Warrior_3rd_Class.cfg:33
+#: The_War_of_Terrador/units/Zederian/Zederian_Warrior_3rd_Class.cfg:33
 msgid "Vibroblade"
 msgstr ""
 
 #. [unit_type]: id=Wasp_Fighter, race=zederian
-#: The_War_of_Terrador/units/Zederian_Wasp_Fighter.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Wasp_Fighter.cfg:5
 msgid "Wasp"
 msgstr ""
 
 #. [unit_type]: id=Wasp_Fighter, race=zederian
-#: The_War_of_Terrador/units/Zederian_Wasp_Fighter.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Wasp_Fighter.cfg:19
 msgid "Wasps are the light fighters of the Zederians. While not especially strong or fast, the Zederians have huge numbers of them, and as such are used mostly to swarm foes."
 msgstr ""
 
 #. [unit_type]: id=Watcher, race=zederian
-#: The_War_of_Terrador/units/Zederian_Watcher.cfg:5
+#: The_War_of_Terrador/units/Zederian/Zederian_Watcher.cfg:5
 msgid "Watcher"
 msgstr ""
 
 #. [unit_type]: id=Watcher, race=zederian
-#: The_War_of_Terrador/units/Zederian_Watcher.cfg:19
+#: The_War_of_Terrador/units/Zederian/Zederian_Watcher.cfg:19
 msgid "In every fleet, there are quick, deadly fighters designed to slip past enemy lines and decimate their ranks. The Watcher is the Zederian version of the Recon Jet, but it is much more powerful."
 msgstr ""
 
