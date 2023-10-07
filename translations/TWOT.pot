@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-11-30 08:07 UTC\n"
+"POT-Creation-Date: 2023-10-07 02:19 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,48 +11,50 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. [multiplayer]: id=aeth_chambers
-#: The_War_of_Terrador/MPmaps/4p_New_Moon.cfg:5
+#. multiplayer map name:
+#: The_War_of_Terrador/MPmaps/4p_New_Moon.cfg:6
 msgid "War of Terrador 4p - New Moon"
 msgstr ""
 
 #. [multiplayer]: id=aeth_chambers
-#: The_War_of_Terrador/MPmaps/4p_New_Moon.cfg:6
-msgid "The War of Terrador's First multiplayer map."
+#: The_War_of_Terrador/MPmaps/4p_New_Moon.cfg:7
+msgid "The War of Terrador's first multiplayer map."
 msgstr ""
 
 #. [objectives]
-#: The_War_of_Terrador/MPmaps/4p_New_Moon.cfg:67
+#: The_War_of_Terrador/MPmaps/4p_New_Moon.cfg:68
 msgid "TWoT's First Multiplayer Map"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_War_of_Terrador/MPmaps/4p_New_Moon.cfg:69
+#: The_War_of_Terrador/MPmaps/4p_New_Moon.cfg:70
 msgid "Defeat the enemy leaders."
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_War_of_Terrador/MPmaps/4p_New_Moon.cfg:73
+#: The_War_of_Terrador/MPmaps/4p_New_Moon.cfg:74
 msgid "Death of your leader."
 msgstr ""
 
 #. [scenario]: id=1_Food
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:4
+#. title of first scenario of "Omega's Tale" campaign; "Food" refers to how the Xylash see all other species:
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:5
 msgid "Food"
 msgstr ""
 
 #. [part]
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:18
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:19
 msgid "The Xylash Hive was a gigantic, musty place. The grubs swarmed the inner walls, and life pulsated from every corner. I was a Neo-Grub, in line to become the next Hivelord. However, this proved to be a little difficult, as there were twenty other Neo-Grubs, all vying for control. I and the rest of my brethren were tasked with multiple jobs, and sent to gather food, build tunnels, and other such inglorious jobs."
 msgstr ""
 
 #. [part]
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:22
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:23
 msgid "I was given a simple task: find and return to the Hive with food. I gathered my warriors and set out to take any food that we came across."
 msgstr ""
 
 #. [side]: type=Xylash_Grub, id=Omega
 #. [side]: type=Omega, id=Xylash
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:29
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:30
 #: The_War_of_Terrador/OTscenarios/2_Protect.cfg:29
 #: The_War_of_Terrador/OTscenarios/3_Assault.cfg:30
 #: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:30
@@ -70,7 +72,7 @@ msgstr ""
 #. [side]: type=Council_Head, id=Zederian Leader3
 #. [side]: type=Council_Head, id=Zederian Leader4
 #. [side]: type=Council_Head, id=Zederian Leader5
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:44
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:45
 #: The_War_of_Terrador/OTscenarios/2_Protect.cfg:44
 #: The_War_of_Terrador/OTscenarios/2_Protect.cfg:63
 #: The_War_of_Terrador/OTscenarios/3_Assault.cfg:67
@@ -86,29 +88,30 @@ msgid "Zederian Leader"
 msgstr ""
 
 #. [message]: speaker=Omega
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:63
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:64
 msgid "I smell... FOOD!"
 msgstr ""
 
 #. [message]: speaker=Zederian Leader
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:68
+#. "those things" = the Xylash:
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:70
 msgid "What are those things? Men, to arms! They don't appear to be friendly!"
 msgstr ""
 
 #. [message]: speaker=Omega
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:73
-msgid "Pathetic Fools..."
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:75
+msgid "Pathetic fools..."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:83
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:85
 #: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:55
 #: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:126
 msgid "Kill the Zederians"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:87
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:89
 #: The_War_of_Terrador/OTscenarios/2_Protect.cfg:139
 #: The_War_of_Terrador/OTscenarios/3_Assault.cfg:179
 #: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:114
@@ -116,7 +119,7 @@ msgid "Death of Omega"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:91
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:93
 #: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:63
 #: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:67
 #: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:138
@@ -128,7 +131,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 #. [message]: speaker=Omega
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:104
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:106
 #: The_War_of_Terrador/OTscenarios/2_Protect.cfg:160
 #: The_War_of_Terrador/OTscenarios/3_Assault.cfg:246
 #: The_War_of_Terrador/OTscenarios/4_Slaves.cfg:131
@@ -137,22 +140,22 @@ msgid "SCREEEE!!!!!"
 msgstr ""
 
 #. [message]: speaker=Zederian Leader
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:114
-msgid "Whatever that was, It's dead. Let's head home."
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:116
+msgid "Whatever that was, it's dead. Let's head home."
 msgstr ""
 
 #. [message]: speaker=Zederian Leader
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:129
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:131
 msgid "What is this... feeling under my skin... *SPLURCH*"
 msgstr ""
 
 #. [message]: speaker=Zederian Leader
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:133
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:135
 msgid "AHHHHHHHHHHHH!!!"
 msgstr ""
 
 #. [message]: speaker=Omega
-#: The_War_of_Terrador/OTscenarios/1_Food.cfg:143
+#: The_War_of_Terrador/OTscenarios/1_Food.cfg:145
 msgid "Let us bring the food and the Spore-Carriers back to the Hive."
 msgstr ""
 
@@ -163,7 +166,7 @@ msgstr ""
 
 #. [part]
 #: The_War_of_Terrador/OTscenarios/2_Protect.cfg:18
-msgid "My mission was a success. I had slain the Zederian fools, and used their bodies to spawn my minions for battle. However, now came the task of returning them to the Hive. I had ventured out far in my attempts to eliminate the rest of them, and so I now had to protect them as they went a fair distance to the Hive itself..."
+msgid "My mission was a success. I had slain the Zederian fools, and used their bodies to spawn my minions for battle. However, now came the task of returning them to the Hive. I had ventured out far in my attempts to eliminate the rest of them, and so I now had to protect them, as they went a fair distance to the Hive itself..."
 msgstr ""
 
 #. [part]
@@ -406,7 +409,7 @@ msgstr ""
 #. [campaign]: id=War_of_Terrador
 #. [campaign]: id=Omega's_Tale
 #: The_War_of_Terrador/_main.cfg:23
-#: The_War_of_Terrador/_main.cfg:48
+#: The_War_of_Terrador/_main.cfg:49
 msgid "Easy"
 msgstr ""
 
@@ -420,7 +423,7 @@ msgstr ""
 #. [campaign]: id=War_of_Terrador
 #. [campaign]: id=Omega's_Tale
 #: The_War_of_Terrador/_main.cfg:24
-#: The_War_of_Terrador/_main.cfg:49
+#: The_War_of_Terrador/_main.cfg:50
 msgid "Normal"
 msgstr ""
 
@@ -434,16 +437,17 @@ msgstr ""
 #. [campaign]: id=War_of_Terrador
 #. [campaign]: id=Omega's_Tale
 #: The_War_of_Terrador/_main.cfg:25
-#: The_War_of_Terrador/_main.cfg:50
+#: The_War_of_Terrador/_main.cfg:51
 msgid "Hard"
 msgstr ""
 
 #. [campaign]: id=War_of_Terrador
 #: The_War_of_Terrador/_main.cfg:27
 msgid ""
-"A small colony on the outer rim of the Gamma Quadrant has cut all communications with the Core Worlds. Central Command, headed by Admiral Joseph Flameslash Gerinian, has sent a young Captain by the name of Ryter Millinski to investigate.\n"
+"A small colony on the outer rim of the Gamma Quadrant has cut all communications with the Core Worlds.\n"
+"Central Command, headed by Admiral Joseph Flameslash Gerinian, has sent a young Captain by the name of Ryter Millinski to investigate.\n"
 "\n"
-"Follow Ryter's tale of how the Great War began and ended, and the horrors during it.  	\n"
+"Follow Ryter's tale of how the Great War began and ended, and the horrors during it.\n"
 "\n"
 "\n"
 "If you like this campaign, give feedback on the Wesnoth Forums!\n"
@@ -453,19 +457,19 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:43
+#: The_War_of_Terrador/_main.cfg:44
 msgid "Omega's Tale"
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:44
+#: The_War_of_Terrador/_main.cfg:45
 msgid "OT"
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
 #. [unit]: id=Grub, type=Xylash_Grub
 #. [unit_type]: id=Xylash_Grub, race=Xylash
-#: The_War_of_Terrador/_main.cfg:48
+#: The_War_of_Terrador/_main.cfg:49
 #: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:202
 #: The_War_of_Terrador/units/Xylash/Xylash_Grub.cfg:5
 msgid "Grub"
@@ -473,18 +477,18 @@ msgstr ""
 
 #. [campaign]: id=Omega's_Tale
 #. [unit_type]: id=Xylash_Hivelord, race=Xylash
-#: The_War_of_Terrador/_main.cfg:49
+#: The_War_of_Terrador/_main.cfg:50
 #: The_War_of_Terrador/units/Xylash/Xylash_Hivelord.cfg:5
 msgid "Hivelord"
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:50
+#: The_War_of_Terrador/_main.cfg:51
 msgid "Omega Hivelord"
 msgstr ""
 
 #. [campaign]: id=Omega's_Tale
-#: The_War_of_Terrador/_main.cfg:52
+#: The_War_of_Terrador/_main.cfg:53
 msgid ""
 "Follow the tale of Omega, once known as Scrak, as he enslaves and conquers the Zederian race long before humans came to the Terrador Galaxy.\n"
 "\n"
@@ -495,12 +499,12 @@ msgid ""
 msgstr ""
 
 #. [editor_group]: id=Space Terrain Packet
-#: The_War_of_Terrador/_main.cfg:111
+#: The_War_of_Terrador/_main.cfg:112
 msgid "Space Terrain Packet"
 msgstr ""
 
 #. [language]
-#: The_War_of_Terrador/_main.cfg:145
+#: The_War_of_Terrador/_main.cfg:146
 msgid "snipe"
 msgstr ""
 
@@ -602,7 +606,7 @@ msgstr ""
 
 #. [race]: id=birilaz
 #: The_War_of_Terrador/races/races.cfg:49
-msgid "A massive armada of half man, half machine creatures, the Birilaz Conglomerate exists purely for one reason: The subjugation of the entire galaxy in plans for their masters to return. Who these masters may be is unknown, but if the Birilaz Conglomerate is naught but their lackeys, than the galaxy may be in dire straights indeed..."
+msgid "A massive armada of half man, half machine creatures, the Birilaz Conglomerate exists purely for one reason: the subjugation of the entire galaxy in plans for their masters to return. Who these masters may be is unknown, but if the Birilaz Conglomerate is naught but their lackeys, then the galaxy may be in dire straits indeed..."
 msgstr ""
 
 #. [scenario]: id=10_The_Xylash
@@ -627,7 +631,7 @@ msgstr ""
 
 #. [part]
 #: The_War_of_Terrador/scenarios/10_The_Xylash.cfg:28
-msgid "I sent out several recon patrols, even though it was against regulation to do so, and one patrol gave me an interesting tale of how they had managed to uncover remains of an unknown alien species; one that was definitely not Zederian. worried that they might be attempting to create a new weapon, I immediately ordered the commencement of the attack."
+msgid "I sent out several recon patrols, even though it was against regulation to do so, and one patrol gave me an interesting tale of how they had managed to uncover remains of an unknown alien species, one that was definitely not Zederian. Worried that they might be attempting to create a new weapon, I immediately ordered the commencement of the attack."
 msgstr ""
 
 #. [objective]: condition=win
@@ -1009,7 +1013,7 @@ msgstr ""
 
 #. [part]
 #: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:21
-msgid "Lerin also helped my men with their armor, upgrading them with Zederian technology so they were stronger than usual. Lerin refused to tell any asbout the Zederian's whereabouts, however, as he believed that if i knew, his people would be wiped out."
+msgid "Lerin also helped my men with their armor, upgrading them with Zederian technology so they were stronger than usual. Lerin refused to tell any asbout the Zederian's whereabouts, however, as he believed that if I knew, his people would be wiped out."
 msgstr ""
 
 #. [part]
@@ -1494,7 +1498,7 @@ msgstr ""
 
 #. [part]
 #: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:20
-msgid "Three generations later the humans found themselves in a new galaxy- a collection of systems far greater than our own, most of which were habitable. Naming this new galaxy Terrador, (After the Latin word terra, meaning Earth) the humans settled in a solar system scarcely seventy light-years from the galaxy's core. These were named The Core Worlds and became the center of humankind's new empire."
+msgid "Three generations later the humans found themselves in a new galaxy- a collection of systems far greater than our own, most of which were habitable. Naming this new galaxy 'Terrador' (after the Latin word 'terra', meaning Earth), the humans settled in a solar system scarcely seventy light-years from the galaxy's core. These were named The Core Worlds and became the center of humankind's new empire."
 msgstr ""
 
 #. [part]
@@ -1908,7 +1912,7 @@ msgstr ""
 
 #. [part]
 #: The_War_of_Terrador/scenarios/4_To_Beta.cfg:24
-msgid "He explained that we had to get back to Beta command, where a fleet was waiting to engage the Zederians. However, I still was nervous. How many Zederians where there? If they all fought like the ones we had encountered before, our fleet would be in trouble. However, we still had to obey orders, and soon were were heading to Beta Command, unsure of what was to come."
+msgid "He explained that we had to get back to Beta Command, where a fleet was waiting to engage the Zederians. However, I still was nervous. How many Zederians were there? If they all fought like the ones we had encountered before, our fleet would be in trouble. However, we still had to obey orders, and soon we were heading to Beta Command, unsure of what was to come."
 msgstr ""
 
 #. [objective]: condition=win
@@ -2057,7 +2061,7 @@ msgstr ""
 
 #. [message]: speaker=Flameslash
 #: The_War_of_Terrador/scenarios/5_To_War.cfg:178
-msgid "This will be my last triumph, my friend. I have served the Terradorian Military for twenty years, and I am old. Nevertheless, I feel I must aid you in this mission; as one of my last acts as Admiral."
+msgid "This will be my last triumph, my friend. I have served the Terradorian Military for twenty years, and I am old. Nevertheless, I feel I must aid you in this mission, as one of my last acts as Admiral."
 msgstr ""
 
 #. [message]: speaker=Newton
@@ -2067,7 +2071,7 @@ msgstr ""
 
 #. [message]: speaker=Zederian Leader
 #: The_War_of_Terrador/scenarios/5_To_War.cfg:188
-msgid "Halt, humans! How dare you attempt to enter our lands! For that, you will die; slowly and painfully."
+msgid "Halt, humans! How dare you attempt to enter our lands! For that, you will die, slowly and painfully."
 msgstr ""
 
 #. [message]: speaker=Newton
@@ -2329,7 +2333,7 @@ msgstr ""
 
 #. [part]
 #: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:42
-msgid "'Ex-Admiral Flameslash was found murdered in him home today, much to the bafflement of local crime fighters. The government plans to hold a commemorative service today in honor of his memory. As most of you know, Flameslash led the first assaults on the terror-'"
+msgid "'Ex-Admiral Flameslash was found murdered in his home today, much to the bafflement of local crime fighters. The government plans to hold a commemorative service today in honor of his memory. As most of you know, Flameslash led the first assaults on the terror-'"
 msgstr ""
 
 #. [part]
@@ -2460,7 +2464,7 @@ msgstr ""
 
 #. [part]
 #: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:24
-msgid "Alderman, when I confided in him, as startled, as well, but he agreed. It seems that we, like Flameslash, could trust no one. As I was walking back out of the bridge, one of the officers shouted, 'Sirs! Zederian ships! Landing on that moon nearby! I immediately went back over to Alderman and told him to stay just out of range. What were the Zederians thinking? Why did they come into Terradorian space?"
+msgid "Alderman, when I confided in him, was startled, as well, but he agreed. It seems that we, like Flameslash, could trust no one. As I was walking back out of the bridge, one of the officers shouted, 'Sirs! Zederian ships! Landing on that moon nearby! I immediately went back over to Alderman and told him to stay just out of range. What were the Zederians thinking? Why did they come into Terradorian space?"
 msgstr ""
 
 #. [objective]: condition=win
@@ -2485,7 +2489,7 @@ msgstr ""
 
 #. [message]: speaker=Zederian Leader
 #: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:127
-msgid "Indeed. However it disgusts me to work with a pathetic human, it is necessary to rebuild our glorious empire to its former glory."
+msgid "Indeed. Despite how much it disgusts me to work with a pathetic human, it is necessary to rebuild our glorious empire to its former glory."
 msgstr ""
 
 #. [message]: speaker=Ryter
