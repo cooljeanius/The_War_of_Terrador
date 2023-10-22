@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-10-07 06:07 UTC\n"
+"POT-Creation-Date: 2023-10-22 09:22 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -203,7 +203,7 @@ msgstr ""
 #: The_War_of_Terrador/scenarios/11_A_Truce.cfg:69
 #: The_War_of_Terrador/scenarios/13_The_Siege.cfg:80
 #: The_War_of_Terrador/scenarios/14_The_Hive.cfg:57
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:47
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:48
 #: The_War_of_Terrador/scenarios/3_The_Attack.cfg:309
 #: The_War_of_Terrador/scenarios/5_To_War.cfg:58
 #: The_War_of_Terrador/scenarios/6_Stealth_Is_The_Key.cfg:58
@@ -646,7 +646,7 @@ msgstr ""
 #: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:47
 #: The_War_of_Terrador/scenarios/13_The_Siege.cfg:64
 #: The_War_of_Terrador/scenarios/14_The_Hive.cfg:45
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:35
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:36
 #: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:60
 #: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:131
 #: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:39
@@ -668,7 +668,7 @@ msgstr ""
 #: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:51
 #: The_War_of_Terrador/scenarios/13_The_Siege.cfg:68
 #: The_War_of_Terrador/scenarios/14_The_Hive.cfg:49
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:39
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:40
 #: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:64
 #: The_War_of_Terrador/scenarios/1_The_Zederians.cfg:135
 #: The_War_of_Terrador/scenarios/2_The_Second_Mission.cfg:43
@@ -703,8 +703,8 @@ msgstr ""
 #: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:72
 #: The_War_of_Terrador/scenarios/13_The_Siege.cfg:89
 #: The_War_of_Terrador/scenarios/14_The_Hive.cfg:66
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:57
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:17
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:58
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:20
 #: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:71
 msgid "Ryter"
 msgstr ""
@@ -773,7 +773,7 @@ msgstr ""
 #: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:188
 #: The_War_of_Terrador/scenarios/13_The_Siege.cfg:328
 #: The_War_of_Terrador/scenarios/14_The_Hive.cfg:227
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:155
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:156
 #: The_War_of_Terrador/scenarios/8_The_Civil_War.cfg:403
 #: The_War_of_Terrador/scenarios/9_The_Zederians_Return.cfg:188
 msgid "Aghhhhh..."
@@ -857,7 +857,7 @@ msgstr ""
 #. [unit]: id=Lerin, type=Council_Member
 #: The_War_of_Terrador/scenarios/11_A_Truce.cfg:106
 #: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:82
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:27
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:30
 msgid "Lerin"
 msgstr ""
 
@@ -992,7 +992,7 @@ msgstr ""
 #: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:248
 #: The_War_of_Terrador/scenarios/13_The_Siege.cfg:411
 #: The_War_of_Terrador/scenarios/14_The_Hive.cfg:308
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:236
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:237
 msgid "Don't... let me become... one of those... things..."
 msgstr ""
 
@@ -1040,7 +1040,7 @@ msgstr ""
 #: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:55
 #: The_War_of_Terrador/scenarios/13_The_Siege.cfg:72
 #: The_War_of_Terrador/scenarios/14_The_Hive.cfg:53
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:43
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:44
 msgid "Death of Lerin"
 msgstr ""
 
@@ -1082,7 +1082,7 @@ msgstr ""
 #. [message]: speaker=Ryter
 #: The_War_of_Terrador/scenarios/12_The_Beginning_Of_The_End.cfg:208
 #: The_War_of_Terrador/scenarios/13_The_Siege.cfg:348
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:175
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:176
 msgid "Nooooooo!!"
 msgstr ""
 
@@ -1357,62 +1357,62 @@ msgid "The Final Battle"
 msgstr ""
 
 #. [part]
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:13
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:14
 msgid "The Xylash were dead, but we had other problems. When we got back out of the caves, we suddenly found ourselves in the middle of a firece battle. The Terradorian Fleet was attacking an incoming force of hundreds, no, thousands of rebel forces! In our worry about the Xylash, the rebels had managed to build a large army, and they were attacking us directly!"
 msgstr ""
 
 #. [part]
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:17
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:18
 msgid "The rebels had a considerable force, but we of the Terradorian Military had superior tactics on our side. I called together my fleet and forces, and commanded the attack. In the skies, the fleet, led by the Admiral, engaged the rebel fleet, making their air support useless."
 msgstr ""
 
 #. [part]
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:21
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:22
 msgid "Nevertheless, their forces were countless, and ours were limited from the recent journey underground. However, we still had an ace up or sleeve. The Zederians, who Lerin informed me were now enemies of the rebels, quickly agreed to come and help with the battle once Lerin contacted them, so they and humans could finally become allies. If we could just hold out until their fleet arrived..."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:31
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:32
 msgid "Eliminate the Rebels"
 msgstr ""
 
 #. [side]: type=Fleet_Commander, id=Gree
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:85
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:86
 msgid "Rebel Commander Gree"
 msgstr ""
 
 #. [message]: speaker=Gree
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:111
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:112
 msgid "Prepare to die with the rest of the Terradorian Fleet, Fleet Commander Ryter!"
 msgstr ""
 
 #. [message]: speaker=Lerin
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:116
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:117
 msgid "Nay, it is you who shall perish this day!"
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:121
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:122
 msgid "All forces, attack! Its time to end this war! FOR TERRADOR!!!!"
 msgstr ""
 
 #. [message]: id=Ryter
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:133
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:134
 msgid "There! The Zederian Fleet!"
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:192
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:193
 msgid "No! They will overrun us if this takes any longer!"
 msgstr ""
 
 #. [message]: speaker=Alderman
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:206
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:207
 msgid "That is it. The end of the war."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:210
+#: The_War_of_Terrador/scenarios/15_The_Final_Battle.cfg:211
 msgid "Yes. This means... Peace. Finally."
 msgstr ""
 
@@ -1422,67 +1422,67 @@ msgid "Epilogue"
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:49
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:52
 msgid "As the Rebel leader perished, the rest of the rebels threw down their arms and surrendered. The Zederians and Terradorians cheered, for the war was over."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:54
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:57
 msgid "I was given several medals of valor and honor, and Lerin was given the honor of being elected High Councilor. Soon, however, it was decided the two councils should become one, and I was chosen to become the leader of the Terradorian Grand Council."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:59
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:62
 msgid "So here I am today; I make sure the Great War never happens again by word of mouth, rather than commanding armies. Newton was send to military prison for a year, and released on good behavior. He died in a bar fight with a Zederian. Alderman became Fleet Commander in my stead, and he sends almost half his fleet to watch over me and the rest of the council every day, rain or shine."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:64
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:67
 msgid "If you would have told me a year and a half ago that I would end up becoming the greatest hero in all of Terrador History, I would have laughed in your face. But it seems fate has a change of heart for those who are brave and strong. Now, if you excuse me, we should have been deliberating three hours ago, and instead all of you have let me tell my boring history. Let's begin..."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:69
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:72
 msgid "CREDITS"
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:74
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:77
 msgid "Unit Sprites: (Vehicles and Ships) Maeglin Dubh and the rest of the Spacenoth team."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:79
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:82
 msgid "Unit Sprites: (Terradorian Infantry) Dragonchampion and Flameslash."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:84
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:87
 msgid "Unit Sprites: (Zederian Infantry and Xylash Aliens) Woodmouse and Dragonchampion."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:89
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:92
 msgid "Terrain: Mnewton1 and Bob The Mighty (for the Spaceport)."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:94
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:97
 msgid "Xylash Infected defend sprite, Warrior Attack animation line: Huntermesa."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:99
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:102
 msgid "All coding/animating by Dragonchampion."
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:104
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:107
 msgid "Porting to BfW 1.14 and 1.16: Eric Gallager (egallager, a.k.a. cooljeanius)"
 msgstr ""
 
 #. [message]: speaker=Ryter
-#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:109
+#: The_War_of_Terrador/scenarios/16_Epilogue.cfg:112
 msgid "Special Thanks: Huntermesa, Indora, Mnewton, Flameslash, Timothy Williams, Turuk, The Great Rings, and anyone else I forgot to mention. Thanks for playing!"
 msgstr ""
 

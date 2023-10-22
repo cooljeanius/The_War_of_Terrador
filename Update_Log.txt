@@ -95,6 +95,7 @@ Update Log
 1.4.2: Ported to BfW 1.16
 1.4.3: minor bug fixes
 1.4.4: more minor bug fixes, mostly with the units
+1.4.5: additional music
 
 If you like this campaign, give feedback on the Wesnoth Forums!
 forums.wesnoth.org/viewtopic.php?f=31&t=24967&start=120
