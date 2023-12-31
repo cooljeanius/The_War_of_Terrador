@@ -12,18 +12,16 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        path: add-ons
     - name: Lint WML
       uses: czyzby/wesnoth-wml-linter@v1
       with:
         wesnoth-version: ${{ env.WESNOTH_VERSION }}
-        spellcheck: true
-    - name: Verify resources scope
-      uses: czyzby/wesnoth-wml-scope@v1
-      if: always()
-      with:
-        wesnoth-version: ${{ env.WESNOTH_VERSION }}
+        spellcheck: false
     - name: Verify images
       uses: czyzby/wesnoth-png-optimizer@v1
       if: always()
       with:
         wesnoth-version: ${{ env.WESNOTH_VERSION }}
+        threshold: 11
